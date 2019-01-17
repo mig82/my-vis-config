@@ -1,0 +1,1869 @@
+Kony_Visualizer_Enterprise/plugins/:
+total 1959112
+-rw-r--r--  1 miguelangel admin     12292 Jan 17 13:00 .DS_Store
+-rwxrwxr-x  1 miguelangel admin    262120 Sep 20 20:16 ch.qos.logback.classic_1.0.7.v20121108-1250.jar
+-rwxrwxr-x  1 miguelangel admin    389972 Sep 20 20:16 ch.qos.logback.core_1.0.7.v20121108-1250.jar
+-rwxrwxr-x  1 miguelangel admin     11048 Sep 20 20:16 ch.qos.logback.slf4j_1.0.7.v20121108-1250.jar
+-rwxrwxr-x  1 miguelangel admin     90430 Sep 20 20:16 com.google.gerrit.common_2.1.5.v201112241444.jar
+-rwxrwxr-x  1 miguelangel admin     55745 Sep 20 20:16 com.google.gerrit.prettify_2.1.5.v201112241444.jar
+-rwxrwxr-x  1 miguelangel admin    124922 Sep 20 20:16 com.google.gerrit.reviewdb_2.1.5.v201112241444.jar
+-rwxrwxr-x  1 miguelangel admin    201065 Sep 20 20:16 com.google.gson_2.1.0.v201303041604.jar
+-rwxrwxr-x  1 miguelangel admin   1593087 Sep 20 20:16 com.google.guava_10.0.1.v201203051515.jar
+-rwxrwxr-x  1 miguelangel admin   1693594 Sep 20 20:16 com.google.gwt.servlet_2.0.4.v20100709-0658.jar
+-rwxrwxr-x  1 miguelangel admin    134375 Sep 20 20:16 com.google.gwtjsonrpc_1.2.5.v201112241444.jar
+-rwxrwxr-x  1 miguelangel admin    179535 Sep 20 20:16 com.google.gwtorm_1.1.4.v201112241444.jar
+-rwxrwxr-x  1 miguelangel admin     45902 Sep 20 20:16 com.google.inject.assistedinject_3.0.0.v20130529-1354.jar
+-rwxrwxr-x  1 miguelangel admin     43760 Sep 20 20:16 com.google.inject.multibindings_3.0.0.v20130529-1354.jar
+-rwxrwxr-x  1 miguelangel admin    520616 Sep 20 20:16 com.google.inject_3.0.0.v201203062045.jar
+-rwxrwxr-x  1 miguelangel admin   1968781 Sep 20 20:16 com.ibm.icu.source_50.1.1.v201304230130.jar
+-rwxrwxr-x  1 miguelangel admin   9451362 Sep 20 20:16 com.ibm.icu_50.1.1.v201304230130.jar
+-rwxrwxr-x  1 miguelangel admin    261128 Sep 20 20:16 com.jcraft.jsch.source_0.1.50.v201310081430.jar
+-rwxrwxr-x  1 miguelangel admin    265735 Sep 20 20:16 com.jcraft.jsch_0.1.50.v201310081430.jar
+-rwxrwxr-x  1 miguelangel admin   2027767 Sep 19 14:55 com.kony.cloudmiddleware_8.3.0.GA_v201809101234_r0.jar
+-rwxrwxr-x  1 miguelangel admin  69085891 Sep 19 14:55 com.kony.cloudthirdparty_8.3.0.GA_v201809101234_r0.jar
+-rwxrwxr-x  1 miguelangel admin  14028672 Sep  3 13:03 com.kony.codegen_8.3.0.v201809031303.jar
+-rwxrwxr-x  1 miguelangel admin   1099342 Sep 11 15:41 com.kony.desktopweb_8.3.0.v201809111540.jar
+-rwxrwxr-x  1 miguelangel admin 273844790 Sep 18 15:28 com.kony.fpreview_8.3.0.v201809181524.jar
+-rwxrwxr-x  1 miguelangel admin    369946 Sep 19 13:18 com.kony.ide.paas.branding_8.3.0.v201809191317.jar
+-rwxrwxr-x  1 miguelangel admin 115586189 Sep 11 21:09 com.kony.ios_8.3.0.v201809112109.jar
+-rwxrwxr-x  1 miguelangel admin  11894498 Sep 11 10:26 com.kony.license_8.3.0.v201809111024.jar
+-rwxrwxr-x  1 miguelangel admin  13707142 Sep 19 14:57 com.kony.mobile.fabric.client.sdk_8.3.0.v201809061510.jar
+-rwxrwxr-x  1 miguelangel admin   8330194 Aug 22 18:06 com.kony.reference.architecture_8.3.0.v201808221806.jar
+-rwxrwxr-x  1 miguelangel admin    968348 Sep 11 15:38 com.kony.spa_8.3.0.v201809111537.jar
+-rwxrwxr-x  1 miguelangel admin    162427 Jan 18  2018 com.kony.studio.cloud_8.0.0.v201709081322.jar
+-rwxrwxr-x  1 miguelangel admin     63066 Sep 19 13:21 com.kony.studio.viz.api_8.3.0.v201809141555.jar
+-rwxrwxr-x  1 miguelangel admin      7080 Sep 19 13:21 com.kony.studio.viz.chrome.api_8.3.0.v201809141555.jar
+-rwxrwxr-x  1 miguelangel admin  81309612 Sep 19 13:21 com.kony.studio.viz.chrome.mac64_8.3.0.v201809141555.jar
+-rwxrwxr-x  1 miguelangel admin 668265720 Sep 19 13:24 com.kony.studio.viz.core.mac64_8.3.0.v201809141555.jar
+-rwxrwxr-x  1 miguelangel admin  21500863 Sep 19 13:26 com.kony.studio.viz.nodejs.mac64_8.3.0.v201809141555.jar
+-rwxrwxr-x  1 miguelangel admin  47542857 Sep 11 10:24 com.kony.thirdparty.jars_8.3.0.v201809111024.jar
+-rwxrwxr-x  1 miguelangel admin   3250172 Apr  4  2018 com.kony.viz.ide_8.2.0.v201804042035.jar
+-rwxrwxr-x  1 miguelangel admin   7508463 Sep  3 13:04 com.kony.webcommons_8.3.0.201809031303.jar
+-rwxrwxr-x  1 miguelangel admin    336794 Sep 20 20:16 com.ning.async-http-client_1.6.5.20130531-2315.jar
+-rwxrwxr-x  1 miguelangel admin 127163586 Sep  7 20:28 com.pat.android_8.3.0.v201809071938.jar
+-rwxrwxr-x  1 miguelangel admin  22231128 Sep 11 10:25 com.pat.soapui.preversion_8.3.0.v201809111024.jar
+-rwxrwxr-x  1 miguelangel admin  24329655 Sep 11 10:25 com.pat.soapui_8.3.0.v201809111024.jar
+-rwxrwxr-x  1 miguelangel admin 127165108 Sep  7 20:30 com.pat.tabrcandroid_8.3.0.v201809071938.jar
+-rwxrwxr-x  1 miguelangel admin 112369500 Sep 19 13:19 com.pat.tool.keditor_8.3.0.v201809141609.jar
+-rwxrwxr-x  1 miguelangel admin    156240 Sep 20 20:16 com.sun.el.source_2.2.0.v201303151357.jar
+-rwxrwxr-x  1 miguelangel admin    137042 Sep 20 20:16 com.sun.el_2.2.0.v201303151357.jar
+-rwxrwxr-x  1 miguelangel admin    227617 Sep 20 20:16 com.sun.syndication_0.9.0.v200803061811.jar
+-rwxrwxr-x  1 miguelangel admin     71406 Sep 20 20:16 javaewah_0.5.6.v201307211000.jar
+-rwxrwxr-x  1 miguelangel admin     45276 Sep 20 20:16 javax.annotation.source_1.1.0.v201209060031.jar
+-rwxrwxr-x  1 miguelangel admin     27664 Sep 20 20:16 javax.annotation_1.1.0.v201209060031.jar
+-rwxrwxr-x  1 miguelangel admin     98413 Sep 20 20:16 javax.el.source_2.2.0.v201303151357.jar
+-rwxrwxr-x  1 miguelangel admin     56002 Sep 20 20:16 javax.el_2.2.0.v201303151357.jar
+-rwxrwxr-x  1 miguelangel admin     20773 Sep 20 20:16 javax.inject.source_1.0.0.v20091030.jar
+-rwxrwxr-x  1 miguelangel admin     12288 Sep 20 20:16 javax.inject_1.0.0.v20091030.jar
+-rwxrwxr-x  1 miguelangel admin    221830 Sep 20 20:16 javax.servlet.jsp.source_2.2.0.v201112011158.jar
+-rwxrwxr-x  1 miguelangel admin    107235 Sep 20 20:16 javax.servlet.jsp_2.2.0.v201112011158.jar
+-rwxrwxr-x  1 miguelangel admin    330539 Sep 20 20:16 javax.servlet.source_3.0.0.v201112011016.jar
+-rwxrwxr-x  1 miguelangel admin    201594 Sep 20 20:16 javax.servlet_3.0.0.v201112011016.jar
+-rwxrwxr-x  1 miguelangel admin    237996 Sep 20 20:16 javax.xml_1.3.4.v201005080400.jar
+-rwxrwxr-x  1 miguelangel admin   2324135 Sep 20 20:16 org.apache.ant.source_1.8.4.v201303080030.jar
+drwxr-xr-x 10 miguelangel admin       340 Jan 16 22:18 org.apache.ant_1.8.4.v201303080030
+-rwxrwxr-x  1 miguelangel admin    265409 Sep 20 20:16 org.apache.batik.css_1.6.0.v201011041432.jar
+-rwxrwxr-x  1 miguelangel admin    164253 Sep 20 20:16 org.apache.batik.util.gui_1.6.0.v201011041432.jar
+-rwxrwxr-x  1 miguelangel admin    101159 Sep 20 20:16 org.apache.batik.util_1.6.0.v201011041432.jar
+-rwxrwxr-x  1 miguelangel admin     92587 Sep 20 20:16 org.apache.commons.codec.source_1.4.0.v201209201156.jar
+-rwxrwxr-x  1 miguelangel admin     74542 Sep 20 20:16 org.apache.commons.codec_1.4.0.v201209201156.jar
+-rwxrwxr-x  1 miguelangel admin    254531 Sep 20 20:16 org.apache.commons.compress_1.4.1.v201301140946.jar
+-rwxrwxr-x  1 miguelangel admin    332343 Sep 20 20:16 org.apache.commons.httpclient_3.1.0.v201012070820.jar
+-rwxrwxr-x  1 miguelangel admin    170843 Sep 20 20:16 org.apache.commons.io_2.0.1.v201105210651.jar
+-rwxrwxr-x  1 miguelangel admin    350170 Sep 20 20:16 org.apache.commons.lang3_3.1.0.v20120817-1117.jar
+-rwxrwxr-x  1 miguelangel admin    299208 Sep 20 20:16 org.apache.commons.lang_2.6.0.v201205030909.jar
+-rwxrwxr-x  1 miguelangel admin     81491 Sep 20 20:16 org.apache.commons.logging.source_1.1.1.v201101211721.jar
+-rwxrwxr-x  1 miguelangel admin     68107 Sep 20 20:16 org.apache.commons.logging_1.1.1.v201101211721.jar
+-rwxrwxr-x  1 miguelangel admin    904660 Sep 20 20:16 org.apache.commons.math_2.1.0.v201105210652.jar
+-rwxrwxr-x  1 miguelangel admin    122626 Sep 20 20:16 org.apache.commons.pool_1.6.0.v201204271246.jar
+-rwxrwxr-x  1 miguelangel admin    315181 Sep 20 20:16 org.apache.commons.primitives_1.0.0.v20120817-1117.jar
+-rwxrwxr-x  1 miguelangel admin     35506 Sep 20 20:16 org.apache.felix.gogo.command.source_0.10.0.v201209301215.jar
+-rwxrwxr-x  1 miguelangel admin     57646 Sep 20 20:16 org.apache.felix.gogo.command_0.10.0.v201209301215.jar
+-rwxrwxr-x  1 miguelangel admin     59884 Sep 20 20:16 org.apache.felix.gogo.runtime.source_0.10.0.v201209301036.jar
+-rwxrwxr-x  1 miguelangel admin     80249 Sep 20 20:16 org.apache.felix.gogo.runtime_0.10.0.v201209301036.jar
+-rwxrwxr-x  1 miguelangel admin     38230 Sep 20 20:16 org.apache.felix.gogo.shell.source_0.10.0.v201212101605.jar
+-rwxrwxr-x  1 miguelangel admin     60827 Sep 20 20:16 org.apache.felix.gogo.shell_0.10.0.v201212101605.jar
+-rwxrwxr-x  1 miguelangel admin    620417 Sep 20 20:16 org.apache.httpcomponents.httpclient.source_4.1.3.v201209201135.jar
+-rwxrwxr-x  1 miguelangel admin    514499 Sep 20 20:16 org.apache.httpcomponents.httpclient_4.1.3.v201209201135.jar
+-rwxrwxr-x  1 miguelangel admin    307436 Sep 20 20:16 org.apache.httpcomponents.httpcore.source_4.1.4.v201203221030.jar
+-rwxrwxr-x  1 miguelangel admin    208576 Sep 20 20:16 org.apache.httpcomponents.httpcore_4.1.4.v201203221030.jar
+-rwxrwxr-x  1 miguelangel admin    467334 Sep 20 20:16 org.apache.jasper.glassfish.source_2.2.2.v201205150955.jar
+-rwxrwxr-x  1 miguelangel admin   2383691 Sep 20 20:16 org.apache.jasper.glassfish_2.2.2.v201205150955.jar
+-rwxrwxr-x  1 miguelangel admin    628045 Sep 20 20:16 org.apache.lucene.analysis.source_3.5.0.v20120725-1805.jar
+-rwxrwxr-x  1 miguelangel admin    909272 Sep 20 20:16 org.apache.lucene.analysis_3.5.0.v20120725-1805.jar
+-rwxrwxr-x  1 miguelangel admin   1392978 Sep 20 20:16 org.apache.lucene.core.source_3.5.0.v20120725-1805.jar
+-rwxrwxr-x  1 miguelangel admin   1550773 Sep 20 20:16 org.apache.lucene.core_3.5.0.v20120725-1805.jar
+-rwxrwxr-x  1 miguelangel admin     70399 Sep 20 20:16 org.apache.lucene.misc_3.5.0.v20120725-1805.jar
+-rwxrwxr-x  1 miguelangel admin     55710 Sep 20 20:16 org.apache.lucene.queries_3.5.0.v20120725-1805.jar
+-rwxrwxr-x  1 miguelangel admin     15838 Sep 20 20:16 org.apache.lucene_3.5.0.v20120725-1805.jar
+-rwxrwxr-x  1 miguelangel admin     43670 Sep 20 20:16 org.apache.ws.commons.util_1.0.1.v20100518-1140.jar
+-rwxrwxr-x  1 miguelangel admin   1338027 Sep 20 20:16 org.apache.xerces_2.9.0.v201101211617.jar
+-rwxrwxr-x  1 miguelangel admin    102714 Sep 20 20:16 org.apache.xml.resolver_1.2.0.v201005080400.jar
+-rwxrwxr-x  1 miguelangel admin    302018 Sep 20 20:16 org.apache.xml.serializer_2.7.1.v201005080400.jar
+-rwxrwxr-x  1 miguelangel admin    229157 Sep 20 20:16 org.apache.xmlrpc_3.0.0.v20100427-1100.jar
+-rwxrwxr-x  1 miguelangel admin     97616 Sep 20 20:16 org.eclipse.ant.core.source_3.2.500.v20140203-1328.jar
+-rwxrwxr-x  1 miguelangel admin    100142 Sep 20 20:16 org.eclipse.ant.core_3.2.500.v20140203-1328.jar
+-rwxrwxr-x  1 miguelangel admin    152718 Sep 20 20:16 org.eclipse.ant.launching_1.0.300.v20140203-1328.jar
+-rwxrwxr-x  1 miguelangel admin    964733 Sep 20 20:16 org.eclipse.ant.ui_3.5.400.v20140203-1328.jar
+-rwxrwxr-x  1 miguelangel admin     62649 Sep 20 20:16 org.eclipse.compare.core.source_3.5.300.v20130514-1224.jar
+-rwxrwxr-x  1 miguelangel admin     63379 Sep 20 20:16 org.eclipse.compare.core_3.5.300.v20130514-1224.jar
+-rwxrwxr-x  1 miguelangel admin    425459 Sep 20 20:16 org.eclipse.compare.source_3.5.401.v20130709-1308.jar
+-rwxrwxr-x  1 miguelangel admin    754963 Sep 20 20:16 org.eclipse.compare_3.5.401.v20130709-1308.jar
+-rwxrwxr-x  1 miguelangel admin    149444 Sep 20 20:16 org.eclipse.core.commands.source_3.6.100.v20130515-1857.jar
+-rwxrwxr-x  1 miguelangel admin    108765 Sep 20 20:16 org.eclipse.core.commands_3.6.100.v20130515-1857.jar
+-rwxrwxr-x  1 miguelangel admin     79239 Sep 20 20:16 org.eclipse.core.contenttype.source_3.4.200.v20130326-1255.jar
+-rwxrwxr-x  1 miguelangel admin     93013 Sep 20 20:16 org.eclipse.core.contenttype_3.4.200.v20130326-1255.jar
+-rwxrwxr-x  1 miguelangel admin     66043 Sep 20 20:16 org.eclipse.core.databinding.beans.source_1.2.200.v20130515-1857.jar
+-rwxrwxr-x  1 miguelangel admin     76513 Sep 20 20:16 org.eclipse.core.databinding.beans_1.2.200.v20130515-1857.jar
+-rwxrwxr-x  1 miguelangel admin    181103 Sep 20 20:16 org.eclipse.core.databinding.observable.source_1.4.1.v20130515-1857.jar
+-rwxrwxr-x  1 miguelangel admin    297395 Sep 20 20:16 org.eclipse.core.databinding.observable_1.4.1.v20130515-1857.jar
+-rwxrwxr-x  1 miguelangel admin     86939 Sep 20 20:16 org.eclipse.core.databinding.property.source_1.4.200.v20130515-1857.jar
+-rwxrwxr-x  1 miguelangel admin    169046 Sep 20 20:16 org.eclipse.core.databinding.property_1.4.200.v20130515-1857.jar
+-rwxrwxr-x  1 miguelangel admin    138487 Sep 20 20:16 org.eclipse.core.databinding.source_1.4.1.v20130515-1857.jar
+-rwxrwxr-x  1 miguelangel admin    202137 Sep 20 20:16 org.eclipse.core.databinding_1.4.1.v20130515-1857.jar
+-rwxrwxr-x  1 miguelangel admin     86300 Sep 20 20:16 org.eclipse.core.expressions.source_3.4.501.v20131118-1915.jar
+-rwxrwxr-x  1 miguelangel admin     88715 Sep 20 20:16 org.eclipse.core.expressions_3.4.501.v20131118-1915.jar
+-rwxrwxr-x  1 miguelangel admin     35787 Sep 20 20:16 org.eclipse.core.externaltools.source_1.0.200.v20130402-1741.jar
+-rwxrwxr-x  1 miguelangel admin     40987 Sep 20 20:16 org.eclipse.core.externaltools_1.0.200.v20130402-1741.jar
+-rwxrwxr-x  1 miguelangel admin     90001 Sep 20 20:16 org.eclipse.core.filebuffers.source_3.5.300.v20130225-1821.jar
+-rwxrwxr-x  1 miguelangel admin    114602 Sep 20 20:16 org.eclipse.core.filebuffers_3.5.300.v20130225-1821.jar
+-rwxrwxr-x  1 miguelangel admin     13681 Sep 20 20:16 org.eclipse.core.filesystem.macosx_1.3.0.v20100505-2103.jar
+-rwxrwxr-x  1 miguelangel admin     88227 Sep 20 20:16 org.eclipse.core.filesystem.source_1.4.0.v20130514-1240.jar
+-rwxrwxr-x  1 miguelangel admin     58051 Sep 20 20:16 org.eclipse.core.filesystem_1.4.0.v20130514-1240.jar
+-rwxrwxr-x  1 miguelangel admin     95559 Sep 20 20:16 org.eclipse.core.jobs.source_3.5.300.v20130429-1813.jar
+-rwxrwxr-x  1 miguelangel admin     92479 Sep 20 20:16 org.eclipse.core.jobs_3.5.300.v20130429-1813.jar
+-rwxrwxr-x  1 miguelangel admin     62267 Sep 20 20:16 org.eclipse.core.net.source_1.2.200.v20130430-1352.jar
+-rwxrwxr-x  1 miguelangel admin     70370 Sep 20 20:16 org.eclipse.core.net_1.2.200.v20130430-1352.jar
+-rwxrwxr-x  1 miguelangel admin    789684 Sep 20 20:16 org.eclipse.core.resources.source_3.8.101.v20130717-0806.jar
+-rwxrwxr-x  1 miguelangel admin    830014 Sep 20 20:16 org.eclipse.core.resources_3.8.101.v20130717-0806.jar
+-rwxrwxr-x  1 miguelangel admin     21532 Sep 20 20:16 org.eclipse.core.runtime.compatibility.auth_3.2.300.v20120523-2004.jar
+-rwxrwxr-x  1 miguelangel admin     18335 Sep 20 20:16 org.eclipse.core.runtime.compatibility.registry.source_3.5.200.v20130514-1256.jar
+drwxr-xr-x  8 miguelangel admin       272 Jan 16 22:18 org.eclipse.core.runtime.compatibility.registry_3.5.200.v20130514-1256
+-rwxrwxr-x  1 miguelangel admin     88056 Sep 20 20:16 org.eclipse.core.runtime.compatibility.source_3.2.200.v20130326-1255.jar
+-rwxrwxr-x  1 miguelangel admin     93921 Sep 20 20:16 org.eclipse.core.runtime.compatibility_3.2.200.v20130326-1255.jar
+-rwxrwxr-x  1 miguelangel admin     93060 Sep 20 20:16 org.eclipse.core.runtime.source_3.9.100.v20131218-1515.jar
+-rwxrwxr-x  1 miguelangel admin     73658 Sep 20 20:16 org.eclipse.core.runtime_3.9.100.v20131218-1515.jar
+-rwxrwxr-x  1 miguelangel admin     37856 Sep 20 20:16 org.eclipse.core.variables.source_3.2.700.v20130402-1741.jar
+-rwxrwxr-x  1 miguelangel admin     34228 Sep 20 20:16 org.eclipse.core.variables_3.2.700.v20130402-1741.jar
+-rwxrwxr-x  1 miguelangel admin     13238 Sep 20 20:16 org.eclipse.cvs_1.4.0.v20140221-1700.jar
+-rwxrwxr-x  1 miguelangel admin    378348 Sep 20 20:16 org.eclipse.debug.core.source_3.8.0.v20130514-0954.jar
+-rwxrwxr-x  1 miguelangel admin    347936 Sep 20 20:16 org.eclipse.debug.core_3.8.0.v20130514-0954.jar
+-rwxrwxr-x  1 miguelangel admin   1687727 Sep 20 20:16 org.eclipse.debug.ui.source_3.9.0.v20130516-1713.jar
+-rwxrwxr-x  1 miguelangel admin   2627657 Sep 20 20:16 org.eclipse.debug.ui_3.9.0.v20130516-1713.jar
+-rwxrwxr-x  1 miguelangel admin    570306 Sep 20 20:16 org.eclipse.draw2d_3.9.0.201308190730.jar
+-rwxrwxr-x  1 miguelangel admin     20487 Sep 20 20:16 org.eclipse.e4.core.commands.source_0.10.2.v20130515-1857.jar
+-rwxrwxr-x  1 miguelangel admin     23904 Sep 20 20:16 org.eclipse.e4.core.commands_0.10.2.v20130515-1857.jar
+-rwxrwxr-x  1 miguelangel admin     42871 Sep 20 20:16 org.eclipse.e4.core.contexts.source_1.3.1.v20130905-0905.jar
+-rwxrwxr-x  1 miguelangel admin     47374 Sep 20 20:16 org.eclipse.e4.core.contexts_1.3.1.v20130905-0905.jar
+-rwxrwxr-x  1 miguelangel admin     17286 Sep 20 20:16 org.eclipse.e4.core.di.extensions.source_0.11.100.v20130514-1256.jar
+-rwxrwxr-x  1 miguelangel admin     23348 Sep 20 20:16 org.eclipse.e4.core.di.extensions_0.11.100.v20130514-1256.jar
+-rwxrwxr-x  1 miguelangel admin     48444 Sep 20 20:16 org.eclipse.e4.core.di.source_1.3.0.v20130514-1256.jar
+-rwxrwxr-x  1 miguelangel admin     52219 Sep 20 20:16 org.eclipse.e4.core.di_1.3.0.v20130514-1256.jar
+-rwxrwxr-x  1 miguelangel admin     23594 Sep 20 20:16 org.eclipse.e4.core.services.source_1.1.0.v20130515-1343.jar
+-rwxrwxr-x  1 miguelangel admin     23152 Sep 20 20:16 org.eclipse.e4.core.services_1.1.0.v20130515-1343.jar
+-rwxrwxr-x  1 miguelangel admin     39158 Sep 20 20:16 org.eclipse.e4.ui.bindings.source_0.10.102.v20140117-1939.jar
+-rwxrwxr-x  1 miguelangel admin     48753 Sep 20 20:16 org.eclipse.e4.ui.bindings_0.10.102.v20140117-1939.jar
+-rwxrwxr-x  1 miguelangel admin    204147 Sep 20 20:16 org.eclipse.e4.ui.css.core.source_0.10.100.v20130515-1857.jar
+-rwxrwxr-x  1 miguelangel admin    199760 Sep 20 20:16 org.eclipse.e4.ui.css.core_0.10.100.v20130515-1857.jar
+-rwxrwxr-x  1 miguelangel admin    132580 Sep 20 20:16 org.eclipse.e4.ui.css.swt.source_0.11.0.v20130515-1857.jar
+-rwxrwxr-x  1 miguelangel admin     21038 Sep 20 20:16 org.eclipse.e4.ui.css.swt.theme.source_0.9.100.v20130515-1857.jar
+-rwxrwxr-x  1 miguelangel admin     25528 Sep 20 20:16 org.eclipse.e4.ui.css.swt.theme_0.9.100.v20130515-1857.jar
+-rwxrwxr-x  1 miguelangel admin    155359 Sep 20 20:16 org.eclipse.e4.ui.css.swt_0.11.0.v20130515-1857.jar
+-rwxrwxr-x  1 miguelangel admin     15360 Sep 20 20:16 org.eclipse.e4.ui.di.source_1.0.0.v20130515-1857.jar
+-rwxrwxr-x  1 miguelangel admin     15730 Sep 20 20:16 org.eclipse.e4.ui.di_1.0.0.v20130515-1857.jar
+-rwxrwxr-x  1 miguelangel admin    377969 Sep 20 20:16 org.eclipse.e4.ui.model.workbench.source_1.0.1.v20131118-1956.jar
+-rwxrwxr-x  1 miguelangel admin    379185 Sep 20 20:16 org.eclipse.e4.ui.model.workbench_1.0.1.v20131118-1956.jar
+-rwxrwxr-x  1 miguelangel admin     22047 Sep 20 20:16 org.eclipse.e4.ui.services.source_1.0.1.v20131118-1940.jar
+-rwxrwxr-x  1 miguelangel admin     25174 Sep 20 20:16 org.eclipse.e4.ui.services_1.0.1.v20131118-1940.jar
+-rwxrwxr-x  1 miguelangel admin      9730 Sep 20 20:16 org.eclipse.e4.ui.widgets.source_1.0.0.v20130515-1857.jar
+-rwxrwxr-x  1 miguelangel admin     14205 Sep 20 20:16 org.eclipse.e4.ui.widgets_1.0.0.v20130515-1857.jar
+-rwxrwxr-x  1 miguelangel admin     63682 Sep 20 20:16 org.eclipse.e4.ui.workbench.addons.swt.source_1.0.2.v20131129-1621.jar
+-rwxrwxr-x  1 miguelangel admin    135085 Sep 20 20:16 org.eclipse.e4.ui.workbench.addons.swt_1.0.2.v20131129-1621.jar
+-rwxrwxr-x  1 miguelangel admin     25886 Sep 20 20:16 org.eclipse.e4.ui.workbench.renderers.swt.cocoa.source_0.11.100.v20130516-1100.jar
+-rwxrwxr-x  1 miguelangel admin     38615 Sep 20 20:16 org.eclipse.e4.ui.workbench.renderers.swt.cocoa_0.11.100.v20130516-1100.jar
+-rwxrwxr-x  1 miguelangel admin    150048 Sep 20 20:16 org.eclipse.e4.ui.workbench.renderers.swt.source_0.11.2.v20140205-1834.jar
+-rwxrwxr-x  1 miguelangel admin    338293 Sep 20 20:16 org.eclipse.e4.ui.workbench.renderers.swt_0.11.2.v20140205-1834.jar
+-rwxrwxr-x  1 miguelangel admin    154043 Sep 20 20:16 org.eclipse.e4.ui.workbench.source_1.0.2.v20131202-1739.jar
+-rwxrwxr-x  1 miguelangel admin     97480 Sep 20 20:16 org.eclipse.e4.ui.workbench.swt.source_0.12.2.v20140117-1939.jar
+-rwxrwxr-x  1 miguelangel admin    171259 Sep 20 20:16 org.eclipse.e4.ui.workbench.swt_0.12.2.v20140117-1939.jar
+-rwxrwxr-x  1 miguelangel admin     11492 Sep 20 20:16 org.eclipse.e4.ui.workbench3.source_0.12.0.v20130515-1857.jar
+-rwxrwxr-x  1 miguelangel admin     10248 Sep 20 20:16 org.eclipse.e4.ui.workbench3_0.12.0.v20130515-1857.jar
+-rwxrwxr-x  1 miguelangel admin    247937 Sep 20 20:16 org.eclipse.e4.ui.workbench_1.0.2.v20131202-1739.jar
+-rwxrwxr-x  1 miguelangel admin     75583 Sep 20 20:16 org.eclipse.ecf.filetransfer.source_5.0.0.v20130604-1622.jar
+-rwxrwxr-x  1 miguelangel admin     51730 Sep 20 20:16 org.eclipse.ecf.filetransfer_5.0.0.v20130604-1622.jar
+-rwxrwxr-x  1 miguelangel admin     46475 Sep 20 20:16 org.eclipse.ecf.identity.source_3.2.0.v20130604-1622.jar
+-rwxrwxr-x  1 miguelangel admin     54407 Sep 20 20:16 org.eclipse.ecf.identity_3.2.0.v20130604-1622.jar
+-rwxrwxr-x  1 miguelangel admin     51582 Sep 20 20:16 org.eclipse.ecf.provider.filetransfer.httpclient4.source_1.0.300.v20130604-1622.jar
+-rwxrwxr-x  1 miguelangel admin     17501 Sep 20 20:16 org.eclipse.ecf.provider.filetransfer.httpclient4.ssl.source_1.0.0.v20130604-1622.jar
+-rwxrwxr-x  1 miguelangel admin     13790 Sep 20 20:16 org.eclipse.ecf.provider.filetransfer.httpclient4.ssl_1.0.0.v20130604-1622.jar
+-rwxrwxr-x  1 miguelangel admin     70909 Sep 20 20:16 org.eclipse.ecf.provider.filetransfer.httpclient4_1.0.300.v20130604-1622.jar
+-rwxrwxr-x  1 miguelangel admin     86247 Sep 20 20:16 org.eclipse.ecf.provider.filetransfer.source_3.2.0.v20130604-1622.jar
+-rwxrwxr-x  1 miguelangel admin      8825 Sep 20 20:16 org.eclipse.ecf.provider.filetransfer.ssl.source_1.0.0.v20130604-1622.jar
+-rwxrwxr-x  1 miguelangel admin      9676 Sep 20 20:16 org.eclipse.ecf.provider.filetransfer.ssl_1.0.0.v20130604-1622.jar
+-rwxrwxr-x  1 miguelangel admin    127621 Sep 20 20:16 org.eclipse.ecf.provider.filetransfer_3.2.0.v20130604-1622.jar
+-rwxrwxr-x  1 miguelangel admin     87020 Sep 20 20:16 org.eclipse.ecf.source_3.2.0.v20130604-1622.jar
+-rwxrwxr-x  1 miguelangel admin     12358 Sep 20 20:16 org.eclipse.ecf.ssl.source_1.1.0.v20130604-1622.jar
+-rwxrwxr-x  1 miguelangel admin     14553 Sep 20 20:16 org.eclipse.ecf.ssl_1.1.0.v20130604-1622.jar
+-rwxrwxr-x  1 miguelangel admin     94160 Sep 20 20:16 org.eclipse.ecf_3.2.0.v20130604-1622.jar
+-rwxrwxr-x  1 miguelangel admin    364555 Sep 20 20:16 org.eclipse.egit.core_3.2.0.201312181205-r.jar
+-rwxrwxr-x  1 miguelangel admin   4542745 Sep 20 20:16 org.eclipse.egit.doc_3.2.0.201312181205-r.jar
+-rwxrwxr-x  1 miguelangel admin     22211 Sep 20 20:16 org.eclipse.egit.mylyn.ui_3.2.0.201312181205-r.jar
+-rwxrwxr-x  1 miguelangel admin   2516126 Sep 20 20:16 org.eclipse.egit.ui_3.2.0.201312181205-r.jar
+-rwxrwxr-x  1 miguelangel admin     10908 Sep 20 20:16 org.eclipse.egit_3.2.0.201312181205-r.jar
+-rwxrwxr-x  1 miguelangel admin    155019 Sep 20 20:16 org.eclipse.emf.common.ui_2.8.0.v20140203-1126.jar
+-rwxrwxr-x  1 miguelangel admin    351628 Sep 20 20:16 org.eclipse.emf.common_2.9.2.v20131212-0545.jar
+-rwxrwxr-x  1 miguelangel admin     89109 Sep 20 20:16 org.eclipse.emf.databinding_1.3.0.v20140203-1126.jar
+-rwxrwxr-x  1 miguelangel admin     85880 Sep 20 20:16 org.eclipse.emf.ecore.change_2.9.0.v20131212-0545.jar
+-rwxrwxr-x  1 miguelangel admin    127908 Sep 20 20:16 org.eclipse.emf.ecore.edit_2.8.0.v20140203-1126.jar
+-rwxrwxr-x  1 miguelangel admin    227790 Sep 20 20:16 org.eclipse.emf.ecore.xmi_2.9.1.v20131212-0545.jar
+-rwxrwxr-x  1 miguelangel admin   1182673 Sep 20 20:16 org.eclipse.emf.ecore_2.9.2.v20131212-0545.jar
+-rwxrwxr-x  1 miguelangel admin    218468 Sep 20 20:16 org.eclipse.emf.edit.ui_2.9.0.v20140203-1126.jar
+-rwxrwxr-x  1 miguelangel admin    269628 Sep 20 20:16 org.eclipse.emf.edit_2.9.0.v20140203-1126.jar
+-rwxrwxr-x  1 miguelangel admin    103628 Sep 20 20:16 org.eclipse.epp.mpc.core_1.2.1.v20140219-1000.jar
+-rwxrwxr-x  1 miguelangel admin    547510 Sep 20 20:16 org.eclipse.epp.mpc.help.ui_1.2.1.v20140219-1000.jar
+-rwxrwxr-x  1 miguelangel admin    319987 Sep 20 20:16 org.eclipse.epp.mpc.ui_1.2.1.v20140219-1000.jar
+drwxr-xr-x 18 miguelangel admin       612 Jan 16 22:18 org.eclipse.epp.package.rcp_2.0.2.20140224-0000
+-rwxrwxr-x  1 miguelangel admin     76724 Sep 20 20:16 org.eclipse.equinox.app.source_1.3.100.v20130327-1442.jar
+-rwxrwxr-x  1 miguelangel admin     86244 Sep 20 20:16 org.eclipse.equinox.app_1.3.100.v20130327-1442.jar
+-rwxrwxr-x  1 miguelangel admin     63190 Sep 20 20:16 org.eclipse.equinox.bidi.source_0.10.0.v20130327-1442.jar
+-rwxrwxr-x  1 miguelangel admin     48549 Sep 20 20:16 org.eclipse.equinox.bidi_0.10.0.v20130327-1442.jar
+-rwxrwxr-x  1 miguelangel admin    120411 Sep 20 20:16 org.eclipse.equinox.common.source_3.6.200.v20130402-1505.jar
+-rwxrwxr-x  1 miguelangel admin    106701 Sep 20 20:16 org.eclipse.equinox.common_3.6.200.v20130402-1505.jar
+-rwxrwxr-x  1 miguelangel admin     25493 Sep 20 20:16 org.eclipse.equinox.concurrent_1.1.0.v20130327-1442.jar
+-rwxrwxr-x  1 miguelangel admin     84940 Sep 20 20:16 org.eclipse.equinox.console.source_1.0.100.v20130429-0953.jar
+-rwxrwxr-x  1 miguelangel admin    116277 Sep 20 20:16 org.eclipse.equinox.console_1.0.100.v20130429-0953.jar
+-rwxrwxr-x  1 miguelangel admin    164005 Sep 20 20:16 org.eclipse.equinox.ds.source_1.4.101.v20130813-1853.jar
+-rwxrwxr-x  1 miguelangel admin    194441 Sep 20 20:16 org.eclipse.equinox.ds_1.4.101.v20130813-1853.jar
+-rwxrwxr-x  1 miguelangel admin     28025 Sep 20 20:16 org.eclipse.equinox.event.source_1.3.0.v20130327-1442.jar
+-rwxrwxr-x  1 miguelangel admin     32690 Sep 20 20:16 org.eclipse.equinox.event_1.3.0.v20130327-1442.jar
+-rwxrwxr-x  1 miguelangel admin     46698 Sep 20 20:16 org.eclipse.equinox.frameworkadmin.equinox.source_1.0.500.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin     63436 Sep 20 20:16 org.eclipse.equinox.frameworkadmin.equinox_1.0.500.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin     35606 Sep 20 20:16 org.eclipse.equinox.frameworkadmin.source_2.0.100.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin     35960 Sep 20 20:16 org.eclipse.equinox.frameworkadmin_2.0.100.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin     20461 Sep 20 20:16 org.eclipse.equinox.http.jetty.source_3.0.100.v20130327-1442.jar
+-rwxrwxr-x  1 miguelangel admin     25187 Sep 20 20:16 org.eclipse.equinox.http.jetty_3.0.100.v20130327-1442.jar
+-rwxrwxr-x  1 miguelangel admin     32082 Sep 20 20:16 org.eclipse.equinox.http.registry.source_1.1.300.v20130402-1529.jar
+-rwxrwxr-x  1 miguelangel admin     45207 Sep 20 20:16 org.eclipse.equinox.http.registry_1.1.300.v20130402-1529.jar
+-rwxrwxr-x  1 miguelangel admin     35073 Sep 20 20:16 org.eclipse.equinox.http.servlet.source_1.1.400.v20130418-1354.jar
+-rwxrwxr-x  1 miguelangel admin     44975 Sep 20 20:16 org.eclipse.equinox.http.servlet_1.1.400.v20130418-1354.jar
+-rwxrwxr-x  1 miguelangel admin     11425 Sep 20 20:16 org.eclipse.equinox.jsp.jasper.registry.source_1.0.300.v20130327-1442.jar
+-rwxrwxr-x  1 miguelangel admin     12190 Sep 20 20:16 org.eclipse.equinox.jsp.jasper.registry_1.0.300.v20130327-1442.jar
+-rwxrwxr-x  1 miguelangel admin     18642 Sep 20 20:16 org.eclipse.equinox.jsp.jasper.source_1.0.400.v20130327-1442.jar
+-rwxrwxr-x  1 miguelangel admin     28124 Sep 20 20:16 org.eclipse.equinox.jsp.jasper_1.0.400.v20130327-1442.jar
+drwxr-xr-x  7 miguelangel admin       238 Jan 16 22:18 org.eclipse.equinox.launcher.cocoa.macosx.x86_64_1.1.200.v20140116-2212
+-rwxrwxr-x  1 miguelangel admin     49968 Sep 20 20:16 org.eclipse.equinox.launcher_1.3.0.v20130327-1440.jar
+-rwxrwxr-x  1 miguelangel admin     94630 Sep 20 20:16 org.eclipse.equinox.p2.artifact.repository.source_1.1.200.v20130515-2028.jar
+-rwxrwxr-x  1 miguelangel admin    135772 Sep 20 20:16 org.eclipse.equinox.p2.artifact.repository_1.1.200.v20130515-2028.jar
+-rwxrwxr-x  1 miguelangel admin     19621 Sep 20 20:16 org.eclipse.equinox.p2.console.source_1.0.300.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin     27716 Sep 20 20:16 org.eclipse.equinox.p2.console_1.0.300.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin     59231 Sep 20 20:16 org.eclipse.equinox.p2.core.source_2.3.0.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin     71398 Sep 20 20:16 org.eclipse.equinox.p2.core_2.3.0.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin     31498 Sep 20 20:16 org.eclipse.equinox.p2.director.app.source_1.0.300.v20130819-1621.jar
+-rwxrwxr-x  1 miguelangel admin     45334 Sep 20 20:16 org.eclipse.equinox.p2.director.app_1.0.300.v20130819-1621.jar
+-rwxrwxr-x  1 miguelangel admin     66381 Sep 20 20:16 org.eclipse.equinox.p2.director.source_2.3.1.v20140221-1852.jar
+-rwxrwxr-x  1 miguelangel admin    103072 Sep 20 20:16 org.eclipse.equinox.p2.director_2.3.1.v20140221-1852.jar
+-rwxrwxr-x  1 miguelangel admin     22573 Sep 20 20:16 org.eclipse.equinox.p2.directorywatcher.source_1.0.300.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin     33183 Sep 20 20:16 org.eclipse.equinox.p2.directorywatcher_1.0.300.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin     56425 Sep 20 20:16 org.eclipse.equinox.p2.discovery.compatibility_1.0.101.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin     36511 Sep 20 20:16 org.eclipse.equinox.p2.discovery_1.0.200.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin    136610 Sep 20 20:16 org.eclipse.equinox.p2.engine.source_2.3.0.v20130526-2122.jar
+-rwxrwxr-x  1 miguelangel admin    200296 Sep 20 20:16 org.eclipse.equinox.p2.engine_2.3.0.v20130526-2122.jar
+-rwxrwxr-x  1 miguelangel admin     26322 Sep 20 20:16 org.eclipse.equinox.p2.extensionlocation.source_1.2.100.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin     35331 Sep 20 20:16 org.eclipse.equinox.p2.extensionlocation_1.2.100.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin     18707 Sep 20 20:16 org.eclipse.equinox.p2.garbagecollector.source_1.0.200.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin     25053 Sep 20 20:16 org.eclipse.equinox.p2.garbagecollector_1.0.200.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin     46863 Sep 20 20:16 org.eclipse.equinox.p2.jarprocessor.source_1.0.300.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin     65588 Sep 20 20:16 org.eclipse.equinox.p2.jarprocessor_1.0.300.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin     56483 Sep 20 20:16 org.eclipse.equinox.p2.metadata.repository.source_1.2.100.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin    111551 Sep 20 20:16 org.eclipse.equinox.p2.metadata.repository_1.2.100.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin    241875 Sep 20 20:16 org.eclipse.equinox.p2.metadata.source_2.2.0.v20130523-1557.jar
+-rwxrwxr-x  1 miguelangel admin    337972 Sep 20 20:16 org.eclipse.equinox.p2.metadata_2.2.0.v20130523-1557.jar
+-rwxrwxr-x  1 miguelangel admin     64591 Sep 20 20:16 org.eclipse.equinox.p2.operations.source_2.3.0.v20130711-1809.jar
+-rwxrwxr-x  1 miguelangel admin     75613 Sep 20 20:16 org.eclipse.equinox.p2.operations_2.3.0.v20130711-1809.jar
+-rwxrwxr-x  1 miguelangel admin    141864 Sep 20 20:16 org.eclipse.equinox.p2.publisher.eclipse.source_1.1.200.v20130516-1953.jar
+-rwxrwxr-x  1 miguelangel admin    207496 Sep 20 20:16 org.eclipse.equinox.p2.publisher.eclipse_1.1.200.v20130516-1953.jar
+-rwxrwxr-x  1 miguelangel admin     74282 Sep 20 20:16 org.eclipse.equinox.p2.publisher.source_1.3.0.v20140129-1405.jar
+-rwxrwxr-x  1 miguelangel admin    109315 Sep 20 20:16 org.eclipse.equinox.p2.publisher_1.3.0.v20140129-1405.jar
+-rwxrwxr-x  1 miguelangel admin     10130 Sep 20 20:16 org.eclipse.equinox.p2.ql.source_2.0.100.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin      9084 Sep 20 20:16 org.eclipse.equinox.p2.ql_2.0.100.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin     34390 Sep 20 20:16 org.eclipse.equinox.p2.reconciler.dropins.source_1.1.200.v20130419-1850.jar
+-rwxrwxr-x  1 miguelangel admin     48578 Sep 20 20:16 org.eclipse.equinox.p2.reconciler.dropins_1.1.200.v20130419-1850.jar
+-rwxrwxr-x  1 miguelangel admin    117449 Sep 20 20:16 org.eclipse.equinox.p2.repository.source_2.3.0.v20130412-2032.jar
+-rwxrwxr-x  1 miguelangel admin    174681 Sep 20 20:16 org.eclipse.equinox.p2.repository.tools.source_2.1.0.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin    229709 Sep 20 20:16 org.eclipse.equinox.p2.repository.tools_2.1.0.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin    129564 Sep 20 20:16 org.eclipse.equinox.p2.repository_2.3.0.v20130412-2032.jar
+-rwxrwxr-x  1 miguelangel admin     96057 Sep 20 20:16 org.eclipse.equinox.p2.touchpoint.eclipse.source_2.1.200.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin    127557 Sep 20 20:16 org.eclipse.equinox.p2.touchpoint.eclipse_2.1.200.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin     47520 Sep 20 20:16 org.eclipse.equinox.p2.touchpoint.natives.source_1.1.100.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin     53136 Sep 20 20:16 org.eclipse.equinox.p2.touchpoint.natives_1.1.100.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin     30419 Sep 20 20:16 org.eclipse.equinox.p2.transport.ecf.source_1.1.0.v20130516-1858.jar
+-rwxrwxr-x  1 miguelangel admin     41515 Sep 20 20:16 org.eclipse.equinox.p2.transport.ecf_1.1.0.v20130516-1858.jar
+-rwxrwxr-x  1 miguelangel admin    152262 Sep 20 20:16 org.eclipse.equinox.p2.ui.discovery_1.0.0.v20130502-0334.jar
+-rwxrwxr-x  1 miguelangel admin     50632 Sep 20 20:16 org.eclipse.equinox.p2.ui.importexport.source_1.1.0.v20131209-2052.jar
+-rwxrwxr-x  1 miguelangel admin    119433 Sep 20 20:16 org.eclipse.equinox.p2.ui.importexport_1.1.0.v20131209-2052.jar
+-rwxrwxr-x  1 miguelangel admin     55529 Sep 20 20:16 org.eclipse.equinox.p2.ui.sdk.scheduler.source_1.2.0.v20140122-1840.jar
+-rwxrwxr-x  1 miguelangel admin    113168 Sep 20 20:16 org.eclipse.equinox.p2.ui.sdk.scheduler_1.2.0.v20140122-1840.jar
+-rwxrwxr-x  1 miguelangel admin     29630 Sep 20 20:16 org.eclipse.equinox.p2.ui.sdk.source_1.0.300.v20130503-1750.jar
+-rwxrwxr-x  1 miguelangel admin     46235 Sep 20 20:16 org.eclipse.equinox.p2.ui.sdk_1.0.300.v20130503-1750.jar
+-rwxrwxr-x  1 miguelangel admin    293410 Sep 20 20:16 org.eclipse.equinox.p2.ui.source_2.3.0.v20131209-2052.jar
+-rwxrwxr-x  1 miguelangel admin    552123 Sep 20 20:16 org.eclipse.equinox.p2.ui_2.3.0.v20131209-2052.jar
+-rwxrwxr-x  1 miguelangel admin     14857 Sep 20 20:16 org.eclipse.equinox.p2.updatechecker.source_1.1.200.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin     17684 Sep 20 20:16 org.eclipse.equinox.p2.updatechecker_1.1.200.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin     69495 Sep 20 20:16 org.eclipse.equinox.p2.updatesite.source_1.0.400.v20130515-2028.jar
+-rwxrwxr-x  1 miguelangel admin     92235 Sep 20 20:16 org.eclipse.equinox.p2.updatesite_1.0.400.v20130515-2028.jar
+-rwxrwxr-x  1 miguelangel admin    113044 Sep 20 20:16 org.eclipse.equinox.preferences.source_3.5.100.v20130422-1538.jar
+-rwxrwxr-x  1 miguelangel admin    127170 Sep 20 20:16 org.eclipse.equinox.preferences_3.5.100.v20130422-1538.jar
+-rwxrwxr-x  1 miguelangel admin    177078 Sep 20 20:16 org.eclipse.equinox.registry.source_3.5.301.v20130717-1549.jar
+-rwxrwxr-x  1 miguelangel admin    184147 Sep 20 20:16 org.eclipse.equinox.registry_3.5.301.v20130717-1549.jar
+-rwxrwxr-x  1 miguelangel admin     28915 Sep 20 20:16 org.eclipse.equinox.security.macosx.source_1.100.200.v20130327-1442.jar
+-rwxrwxr-x  1 miguelangel admin     16827 Sep 20 20:16 org.eclipse.equinox.security.macosx_1.100.200.v20130327-1442.jar
+-rwxrwxr-x  1 miguelangel admin     99932 Sep 20 20:16 org.eclipse.equinox.security.source_1.2.0.v20130424-1801.jar
+-rwxrwxr-x  1 miguelangel admin     94984 Sep 20 20:16 org.eclipse.equinox.security.ui.source_1.1.100.v20130327-1442.jar
+-rwxrwxr-x  1 miguelangel admin    215381 Sep 20 20:16 org.eclipse.equinox.security.ui_1.1.100.v20130327-1442.jar
+-rwxrwxr-x  1 miguelangel admin    107313 Sep 20 20:16 org.eclipse.equinox.security_1.2.0.v20130424-1801.jar
+-rwxrwxr-x  1 miguelangel admin     18797 Sep 20 20:16 org.eclipse.equinox.simpleconfigurator.manipulator.source_2.0.0.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin     25285 Sep 20 20:16 org.eclipse.equinox.simpleconfigurator.manipulator_2.0.0.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin     34602 Sep 20 20:16 org.eclipse.equinox.simpleconfigurator.source_1.0.400.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin     40533 Sep 20 20:16 org.eclipse.equinox.simpleconfigurator_1.0.400.v20130327-2119.jar
+-rwxrwxr-x  1 miguelangel admin     75442 Sep 20 20:16 org.eclipse.equinox.util.source_1.0.500.v20130404-1337.jar
+-rwxrwxr-x  1 miguelangel admin     77932 Sep 20 20:16 org.eclipse.equinox.util_1.0.500.v20130404-1337.jar
+-rwxrwxr-x  1 miguelangel admin    849105 Sep 20 20:16 org.eclipse.gef_3.9.0.201308190730.jar
+-rwxrwxr-x  1 miguelangel admin    305915 Sep 20 20:16 org.eclipse.help.base.source_4.0.1.v20140221-1700.jar
+-rwxrwxr-x  1 miguelangel admin    406943 Sep 20 20:16 org.eclipse.help.base_4.0.1.v20140221-1700.jar
+-rwxrwxr-x  1 miguelangel admin    180007 Sep 20 20:16 org.eclipse.help.source_3.6.0.v20130326-1254.jar
+-rwxrwxr-x  1 miguelangel admin    223250 Sep 20 20:16 org.eclipse.help.ui.source_4.0.1.v20130708-1201.jar
+-rwxrwxr-x  1 miguelangel admin    499671 Sep 20 20:16 org.eclipse.help.ui_4.0.1.v20130708-1201.jar
+-rwxrwxr-x  1 miguelangel admin    201131 Sep 20 20:16 org.eclipse.help.webapp.source_3.6.200.v20130514-1258.jar
+-rwxrwxr-x  1 miguelangel admin    613581 Sep 20 20:16 org.eclipse.help.webapp_3.6.200.v20130514-1258.jar
+-rwxrwxr-x  1 miguelangel admin    258927 Sep 20 20:16 org.eclipse.help_3.6.0.v20130326-1254.jar
+-rwxrwxr-x  1 miguelangel admin     14613 Sep 20 20:16 org.eclipse.jdt.annotation_1.1.0.v20130513-1648.jar
+-rwxrwxr-x  1 miguelangel admin    365663 Sep 20 20:16 org.eclipse.jdt.apt.core_3.3.500.v20120516-0617.jar
+-rwxrwxr-x  1 miguelangel admin     33571 Sep 20 20:16 org.eclipse.jdt.apt.pluggable.core_1.0.400.v20120516-0617.jar
+-rwxrwxr-x  1 miguelangel admin     69239 Sep 20 20:16 org.eclipse.jdt.apt.ui_3.3.300.v20120516-0617.jar
+-rwxrwxr-x  1 miguelangel admin    155021 Sep 20 20:16 org.eclipse.jdt.compiler.apt_1.0.600.v20130530-1010.jar
+-rwxrwxr-x  1 miguelangel admin     58380 Sep 20 20:16 org.eclipse.jdt.compiler.tool_1.0.200.v20130530-1010.jar
+-rwxrwxr-x  1 miguelangel admin     87593 Sep 20 20:16 org.eclipse.jdt.core.manipulation_1.5.0.v20130605-1748.jar
+-rwxrwxr-x  1 miguelangel admin   4849424 Sep 20 20:16 org.eclipse.jdt.core_3.9.2.v20140114-1555.jar
+-rwxrwxr-x  1 miguelangel admin   1384198 Sep 20 20:16 org.eclipse.jdt.debug.ui_3.6.200.v20130514-0841.jar
+drwxr-xr-x 11 miguelangel admin       374 Jan 16 22:18 org.eclipse.jdt.debug_3.8.0.v20130514-0841
+-rwxrwxr-x  1 miguelangel admin   7681472 Sep 20 20:16 org.eclipse.jdt.doc.user_3.9.1.v20140205-0929.jar
+-rwxrwxr-x  1 miguelangel admin    148668 Sep 20 20:16 org.eclipse.jdt.junit.core_3.7.200.v20130514-1154.jar
+-rwxrwxr-x  1 miguelangel admin     53399 Sep 20 20:16 org.eclipse.jdt.junit.runtime_3.4.400.v20130514-0733.jar
+-rwxrwxr-x  1 miguelangel admin     20500 Sep 20 20:16 org.eclipse.jdt.junit4.runtime_1.1.300.v20130514-0733.jar
+-rwxrwxr-x  1 miguelangel admin    424041 Sep 20 20:16 org.eclipse.jdt.junit_3.7.200.v20130514-0733.jar
+-rwxrwxr-x  1 miguelangel admin     18290 Sep 20 20:16 org.eclipse.jdt.launching.macosx_3.2.200.v20130514-1246.jar
+-rwxrwxr-x  1 miguelangel admin     56769 Sep 20 20:16 org.eclipse.jdt.launching.ui.macosx_1.0.200.v20130402-1743.jar
+-rwxrwxr-x  1 miguelangel admin    319071 Sep 20 20:16 org.eclipse.jdt.launching_3.7.1.v20131218-1102.jar
+-rwxrwxr-x  1 miguelangel admin  10386579 Sep 20 20:16 org.eclipse.jdt.ui_3.9.2.v20131106-1600.jar
+-rwxrwxr-x  1 miguelangel admin     42665 Sep 20 20:16 org.eclipse.jdt_3.9.1.v20140221-1700.jar
+-rwxrwxr-x  1 miguelangel admin    109936 Sep 20 20:16 org.eclipse.jem.util_2.1.100.v201103021400.jar
+-rwxrwxr-x  1 miguelangel admin     23720 Sep 20 20:16 org.eclipse.jetty.continuation.source_8.1.14.v20131031.jar
+-rwxrwxr-x  1 miguelangel admin     27561 Sep 20 20:16 org.eclipse.jetty.continuation_8.1.14.v20131031.jar
+-rwxrwxr-x  1 miguelangel admin     75121 Sep 20 20:16 org.eclipse.jetty.http.source_8.1.14.v20131031.jar
+-rwxrwxr-x  1 miguelangel admin    103777 Sep 20 20:16 org.eclipse.jetty.http_8.1.14.v20131031.jar
+-rwxrwxr-x  1 miguelangel admin     77679 Sep 20 20:16 org.eclipse.jetty.io.source_8.1.14.v20131031.jar
+-rwxrwxr-x  1 miguelangel admin    113315 Sep 20 20:16 org.eclipse.jetty.io_8.1.14.v20131031.jar
+-rwxrwxr-x  1 miguelangel admin     70808 Sep 20 20:16 org.eclipse.jetty.security.source_8.1.14.v20131031.jar
+-rwxrwxr-x  1 miguelangel admin     98898 Sep 20 20:16 org.eclipse.jetty.security_8.1.14.v20131031.jar
+-rwxrwxr-x  1 miguelangel admin    239765 Sep 20 20:16 org.eclipse.jetty.server.source_8.1.14.v20131031.jar
+-rwxrwxr-x  1 miguelangel admin    370503 Sep 20 20:16 org.eclipse.jetty.server_8.1.14.v20131031.jar
+-rwxrwxr-x  1 miguelangel admin     65870 Sep 20 20:16 org.eclipse.jetty.servlet.source_8.1.14.v20131031.jar
+-rwxrwxr-x  1 miguelangel admin    109181 Sep 20 20:16 org.eclipse.jetty.servlet_8.1.14.v20131031.jar
+-rwxrwxr-x  1 miguelangel admin    209767 Sep 20 20:16 org.eclipse.jetty.util.source_8.1.14.v20131031.jar
+-rwxrwxr-x  1 miguelangel admin    301680 Sep 20 20:16 org.eclipse.jetty.util_8.1.14.v20131031.jar
+-rwxrwxr-x  1 miguelangel admin    114527 Sep 20 20:16 org.eclipse.jetty.webapp_8.1.3.v20120522.jar
+-rwxrwxr-x  1 miguelangel admin     44137 Sep 20 20:16 org.eclipse.jetty.xml_8.1.3.v20120522.jar
+-rwxrwxr-x  1 miguelangel admin    204889 Sep 20 20:16 org.eclipse.jface.databinding.source_1.6.200.v20130515-1857.jar
+-rwxrwxr-x  1 miguelangel admin    278295 Sep 20 20:16 org.eclipse.jface.databinding_1.6.200.v20130515-1857.jar
+-rwxrwxr-x  1 miguelangel admin    986904 Sep 20 20:16 org.eclipse.jface.source_3.9.1.v20130725-1141.jar
+-rwxrwxr-x  1 miguelangel admin    772349 Sep 20 20:16 org.eclipse.jface.text.source_3.8.101.v20130802-1147.jar
+-rwxrwxr-x  1 miguelangel admin    992827 Sep 20 20:16 org.eclipse.jface.text_3.8.101.v20130802-1147.jar
+-rwxrwxr-x  1 miguelangel admin   1100507 Sep 20 20:16 org.eclipse.jface_3.9.1.v20130725-1141.jar
+-rwxrwxr-x  1 miguelangel admin     19571 Sep 20 20:16 org.eclipse.jgit.archive_3.2.0.201312181205-r.jar
+-rwxrwxr-x  1 miguelangel admin   1853446 Sep 20 20:16 org.eclipse.jgit_3.2.0.201312181205-r.jar
+-rwxrwxr-x  1 miguelangel admin     35118 Sep 20 20:16 org.eclipse.jsch.core.source_1.1.402.v20131127-1657.jar
+-rwxrwxr-x  1 miguelangel admin     38085 Sep 20 20:16 org.eclipse.jsch.core_1.1.402.v20131127-1657.jar
+-rwxrwxr-x  1 miguelangel admin     48130 Sep 20 20:16 org.eclipse.jsch.ui.source_1.1.402.v20131127-1657.jar
+-rwxrwxr-x  1 miguelangel admin     98452 Sep 20 20:16 org.eclipse.jsch.ui_1.1.402.v20131127-1657.jar
+-rwxrwxr-x  1 miguelangel admin    287507 Sep 20 20:16 org.eclipse.ltk.core.refactoring.source_3.6.100.v20130605-1748.jar
+-rwxrwxr-x  1 miguelangel admin    326171 Sep 20 20:16 org.eclipse.ltk.core.refactoring_3.6.100.v20130605-1748.jar
+-rwxrwxr-x  1 miguelangel admin    250863 Sep 20 20:16 org.eclipse.ltk.ui.refactoring.source_3.7.100.v20130605-1748.jar
+-rwxrwxr-x  1 miguelangel admin    458479 Sep 20 20:16 org.eclipse.ltk.ui.refactoring_3.7.100.v20130605-1748.jar
+-rwxrwxr-x  1 miguelangel admin   1892069 Sep 20 20:16 org.eclipse.m2e.archetype.common_1.4.0.20130531-2315.jar
+-rwxrwxr-x  1 miguelangel admin    729525 Sep 20 20:16 org.eclipse.m2e.core.ui_1.4.0.20130601-0317.jar
+-rwxrwxr-x  1 miguelangel admin    559297 Sep 20 20:16 org.eclipse.m2e.core_1.4.0.20130601-0317.jar
+-rwxrwxr-x  1 miguelangel admin    118592 Sep 20 20:16 org.eclipse.m2e.discovery_1.4.0.20130601-0317.jar
+-rwxrwxr-x  1 miguelangel admin    237426 Sep 20 20:16 org.eclipse.m2e.editor.xml_1.4.0.20130601-0317.jar
+-rwxrwxr-x  1 miguelangel admin    300043 Sep 20 20:16 org.eclipse.m2e.editor_1.4.0.20130601-0317.jar
+-rwxrwxr-x  1 miguelangel admin    130308 Sep 20 20:16 org.eclipse.m2e.jdt_1.4.0.20130601-0317.jar
+-rwxrwxr-x  1 miguelangel admin    105287 Sep 20 20:16 org.eclipse.m2e.launching_1.4.0.20130601-0317.jar
+-rwxrwxr-x  1 miguelangel admin     10148 Sep 20 20:16 org.eclipse.m2e.lifecyclemapping.defaults_1.4.0.20130601-0317.jar
+-rwxrwxr-x  1 miguelangel admin     14068 Sep 20 20:16 org.eclipse.m2e.logback.appender_1.4.0.20130601-0317.jar
+-rwxrwxr-x  1 miguelangel admin     16513 Sep 20 20:16 org.eclipse.m2e.logback.configuration_1.4.0.20130601-0317.jar
+-rwxrwxr-x  1 miguelangel admin   1132245 Sep 20 20:16 org.eclipse.m2e.maven.indexer_1.4.0.20130531-2315.jar
+-rwxrwxr-x  1 miguelangel admin   4257793 Sep 20 20:16 org.eclipse.m2e.maven.runtime_1.4.0.20130531-2315.jar
+-rwxrwxr-x  1 miguelangel admin    395078 Sep 20 20:16 org.eclipse.m2e.model.edit_1.4.0.20130601-0317.jar
+-rwxrwxr-x  1 miguelangel admin     76638 Sep 20 20:16 org.eclipse.m2e.refactoring_1.4.0.20130601-0317.jar
+-rwxrwxr-x  1 miguelangel admin     72268 Sep 20 20:16 org.eclipse.m2e.scm_1.4.0.20130601-0317.jar
+-rwxrwxr-x  1 miguelangel admin    260832 Sep 20 20:16 org.eclipse.mylyn.bugzilla.core_3.9.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     16085 Sep 20 20:16 org.eclipse.mylyn.bugzilla.ide_3.9.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin    275935 Sep 20 20:16 org.eclipse.mylyn.bugzilla.ui_3.9.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin    205299 Sep 20 20:16 org.eclipse.mylyn.builds.core_1.1.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin    303260 Sep 20 20:16 org.eclipse.mylyn.builds.ui_1.1.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin    121490 Sep 20 20:16 org.eclipse.mylyn.commons.core_3.9.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     44182 Sep 20 20:16 org.eclipse.mylyn.commons.identity.core_1.1.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     82888 Sep 20 20:16 org.eclipse.mylyn.commons.net_3.9.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     13943 Sep 20 20:16 org.eclipse.mylyn.commons.notifications.core_1.1.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     27554 Sep 20 20:16 org.eclipse.mylyn.commons.notifications.feed_1.1.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     60439 Sep 20 20:16 org.eclipse.mylyn.commons.notifications.ui_1.1.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     46452 Sep 20 20:16 org.eclipse.mylyn.commons.repositories.core_1.1.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     35319 Sep 20 20:16 org.eclipse.mylyn.commons.repositories.http.core_1.1.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     90687 Sep 20 20:16 org.eclipse.mylyn.commons.repositories.ui_1.1.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin    108119 Sep 20 20:16 org.eclipse.mylyn.commons.screenshots_3.9.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin    302857 Sep 20 20:16 org.eclipse.mylyn.commons.ui_3.9.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin    169285 Sep 20 20:16 org.eclipse.mylyn.commons.workbench_3.9.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     36651 Sep 20 20:16 org.eclipse.mylyn.commons.xmlrpc_3.9.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin    124808 Sep 20 20:16 org.eclipse.mylyn.context.core_3.9.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin    102061 Sep 20 20:16 org.eclipse.mylyn.context.tasks.ui_3.9.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin    162033 Sep 20 20:16 org.eclipse.mylyn.context.ui_3.9.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     16352 Sep 20 20:16 org.eclipse.mylyn.debug.ui_3.9.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     86876 Sep 20 20:16 org.eclipse.mylyn.discovery.core_3.9.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin    105944 Sep 20 20:16 org.eclipse.mylyn.discovery.ui_3.9.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin    208631 Sep 20 20:16 org.eclipse.mylyn.gerrit.core_2.0.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin    132883 Sep 20 20:16 org.eclipse.mylyn.gerrit.ui_2.0.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     22049 Sep 20 20:16 org.eclipse.mylyn.git.core_1.1.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     20564 Sep 20 20:16 org.eclipse.mylyn.git.ui_1.1.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin   1232505 Sep 20 20:16 org.eclipse.mylyn.help.ui_3.9.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin    109873 Sep 20 20:16 org.eclipse.mylyn.hudson.core_1.1.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     19258 Sep 20 20:16 org.eclipse.mylyn.hudson.ui_1.1.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     26033 Sep 20 20:16 org.eclipse.mylyn.ide.ant_3.9.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     35248 Sep 20 20:16 org.eclipse.mylyn.ide.ui_3.9.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     22006 Sep 20 20:16 org.eclipse.mylyn.java.tasks_3.9.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin    166689 Sep 20 20:16 org.eclipse.mylyn.java.ui_3.9.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     38458 Sep 20 20:16 org.eclipse.mylyn.monitor.core_3.9.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     51611 Sep 20 20:16 org.eclipse.mylyn.monitor.ui_3.9.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     69236 Sep 20 20:16 org.eclipse.mylyn.pde.ui_3.9.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     68220 Sep 20 20:16 org.eclipse.mylyn.resources.ui_3.9.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin    150177 Sep 20 20:16 org.eclipse.mylyn.reviews.core_2.0.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     89286 Sep 20 20:16 org.eclipse.mylyn.reviews.edit_2.0.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin    231988 Sep 20 20:16 org.eclipse.mylyn.reviews.ui_2.0.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     92130 Sep 20 20:16 org.eclipse.mylyn.tasks.bugs_3.9.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin    414467 Sep 20 20:16 org.eclipse.mylyn.tasks.core_3.9.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     31252 Sep 20 20:16 org.eclipse.mylyn.tasks.index.core_3.9.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     29803 Sep 20 20:16 org.eclipse.mylyn.tasks.index.ui_3.9.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     69432 Sep 20 20:16 org.eclipse.mylyn.tasks.search_3.9.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin   1767729 Sep 20 20:16 org.eclipse.mylyn.tasks.ui_3.9.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     20891 Sep 20 20:16 org.eclipse.mylyn.team.cvs_3.9.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin    130280 Sep 20 20:16 org.eclipse.mylyn.team.ui_3.9.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     30222 Sep 20 20:16 org.eclipse.mylyn.versions.core_1.1.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     13341 Sep 20 20:16 org.eclipse.mylyn.versions.ui_1.1.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     77067 Sep 20 20:16 org.eclipse.mylyn.wikitext.confluence.core_1.8.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     11353 Sep 20 20:16 org.eclipse.mylyn.wikitext.confluence.ui_1.8.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     31167 Sep 20 20:16 org.eclipse.mylyn.wikitext.context.ui_1.8.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin    376829 Sep 20 20:16 org.eclipse.mylyn.wikitext.core_1.8.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin   1289048 Sep 20 20:16 org.eclipse.mylyn.wikitext.help.ui_1.8.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin    112919 Sep 20 20:16 org.eclipse.mylyn.wikitext.mediawiki.core_1.8.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     11064 Sep 20 20:16 org.eclipse.mylyn.wikitext.mediawiki.ui_1.8.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     44755 Sep 20 20:16 org.eclipse.mylyn.wikitext.tasks.ui_1.8.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     81280 Sep 20 20:16 org.eclipse.mylyn.wikitext.textile.core_1.8.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     11856 Sep 20 20:16 org.eclipse.mylyn.wikitext.textile.ui_1.8.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     61474 Sep 20 20:16 org.eclipse.mylyn.wikitext.tracwiki.core_1.8.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     10053 Sep 20 20:16 org.eclipse.mylyn.wikitext.tracwiki.ui_1.8.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin     46784 Sep 20 20:16 org.eclipse.mylyn.wikitext.twiki.core_1.8.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin      9940 Sep 20 20:16 org.eclipse.mylyn.wikitext.twiki.ui_1.8.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin    425121 Sep 20 20:16 org.eclipse.mylyn.wikitext.ui_1.8.2.v20140211-0100.jar
+-rwxrwxr-x  1 miguelangel admin    469663 Sep 20 20:16 org.eclipse.osgi.services.source_3.3.100.v20130513-1956.jar
+-rwxrwxr-x  1 miguelangel admin     82934 Sep 20 20:16 org.eclipse.osgi.services_3.3.100.v20130513-1956.jar
+-rwxrwxr-x  1 miguelangel admin   1187231 Sep 20 20:16 org.eclipse.osgi.source_3.9.1.v20140110-1610.jar
+-rwxrwxr-x  1 miguelangel admin     94783 Sep 20 20:16 org.eclipse.osgi.util.source_3.2.300.v20130513-1956.jar
+-rwxrwxr-x  1 miguelangel admin     24805 Sep 20 20:16 org.eclipse.osgi.util_3.2.300.v20130513-1956.jar
+-rwxrwxr-x  1 miguelangel admin   1394033 Sep 20 20:16 org.eclipse.osgi_3.9.1.v20140110-1610.jar
+-rwxrwxr-x  1 miguelangel admin    429697 Sep 20 20:16 org.eclipse.pde.api.tools.ui_1.0.401.v20130730-1957.jar
+-rwxrwxr-x  1 miguelangel admin    843797 Sep 20 20:16 org.eclipse.pde.api.tools_1.0.501.v20130807-1634.jar
+drwxr-xr-x 15 miguelangel admin       510 Jan 16 22:18 org.eclipse.pde.build_3.8.100.v20130514-1028
+-rwxrwxr-x  1 miguelangel admin   1247140 Sep 20 20:16 org.eclipse.pde.core_3.9.1.v20130628-1111.jar
+-rwxrwxr-x  1 miguelangel admin   5914029 Sep 20 20:16 org.eclipse.pde.doc.user_3.9.2.v20140205-0929.jar
+-rwxrwxr-x  1 miguelangel admin     56285 Sep 20 20:16 org.eclipse.pde.ds.core_1.0.300.v20130514-1232.jar
+-rwxrwxr-x  1 miguelangel admin    190048 Sep 20 20:16 org.eclipse.pde.ds.ui_1.0.300.v20130507-2057.jar
+-rwxrwxr-x  1 miguelangel admin     21974 Sep 20 20:16 org.eclipse.pde.junit.runtime_3.4.300.v20130422-2046.jar
+-rwxrwxr-x  1 miguelangel admin    115210 Sep 20 20:16 org.eclipse.pde.launching_3.6.101.v20130807-1445.jar
+-rwxrwxr-x  1 miguelangel admin    162015 Sep 20 20:16 org.eclipse.pde.runtime_3.4.400.v20130402-1757.jar
+-rwxrwxr-x  1 miguelangel admin    110723 Sep 20 20:16 org.eclipse.pde.ua.core_1.0.300.v20130402-1757.jar
+-rwxrwxr-x  1 miguelangel admin    425205 Sep 20 20:16 org.eclipse.pde.ua.ui_1.0.300.v20130508-1926.jar
+-rwxrwxr-x  1 miguelangel admin    554938 Sep 20 20:16 org.eclipse.pde.ui.templates_3.4.600.v20130507-2057.jar
+-rwxrwxr-x  1 miguelangel admin   4367873 Sep 20 20:16 org.eclipse.pde.ui_3.8.0.v20130515-1659.jar
+-rwxrwxr-x  1 miguelangel admin     70664 Sep 20 20:16 org.eclipse.pde_3.8.100.v20140221-1700.jar
+-rwxrwxr-x  1 miguelangel admin  35363920 Sep 20 20:16 org.eclipse.platform.doc.isv_4.3.2.v20140205-0929.jar
+-rwxrwxr-x  1 miguelangel admin   8181506 Sep 20 20:16 org.eclipse.platform.doc.user_4.3.1.v20140123-0938.jar
+-rwxrwxr-x  1 miguelangel admin     10360 Sep 20 20:16 org.eclipse.platform.source_4.3.2.v20140221-1700.jar
+drwxr-xr-x 35 miguelangel admin      1190 Jan 16 22:18 org.eclipse.platform_4.3.2.v20140221-1700
+-rwxrwxr-x  1 miguelangel admin   4193938 Sep 20 20:16 org.eclipse.rap.doc_2.1.2.20140121-0712.jar
+-rwxrwxr-x  1 miguelangel admin     31299 Sep 20 20:16 org.eclipse.rap.tools.intro.source_2.1.2.20140121-0712.jar
+-rwxrwxr-x  1 miguelangel admin     41067 Sep 20 20:16 org.eclipse.rap.tools.intro_2.1.2.20140121-0712.jar
+-rwxrwxr-x  1 miguelangel admin     71627 Sep 20 20:16 org.eclipse.rap.tools.launch.rwt.source_2.1.2.20140121-0712.jar
+-rwxrwxr-x  1 miguelangel admin    123141 Sep 20 20:16 org.eclipse.rap.tools.launch.rwt_2.1.2.20140121-0712.jar
+-rwxrwxr-x  1 miguelangel admin     51627 Sep 20 20:16 org.eclipse.rap.tools.launch.source_2.1.2.20140121-0712.jar
+-rwxrwxr-x  1 miguelangel admin     83585 Sep 20 20:16 org.eclipse.rap.tools.launch_2.1.2.20140121-0712.jar
+-rwxrwxr-x  1 miguelangel admin     32420 Sep 20 20:16 org.eclipse.rap.tools.templates.source_2.1.2.20140121-0712.jar
+-rwxrwxr-x  1 miguelangel admin     58538 Sep 20 20:16 org.eclipse.rap.tools.templates_2.1.2.20140121-0712.jar
+-rwxrwxr-x  1 miguelangel admin     13225 Sep 20 20:16 org.eclipse.rcp_4.3.0.v20140221-1700.jar
+-rwxrwxr-x  1 miguelangel admin   1235051 Sep 20 20:16 org.eclipse.recommenders.aether_1.0.0.v20120817-2231.jar
+-rwxrwxr-x  1 miguelangel admin     86557 Sep 20 20:16 org.eclipse.recommenders.completion.rcp.calls_1.0.5.v20130822-0858-b90.jar
+-rwxrwxr-x  1 miguelangel admin     55280 Sep 20 20:16 org.eclipse.recommenders.completion.rcp.chain_1.0.5.v20130822-0858-b90.jar
+-rwxrwxr-x  1 miguelangel admin     12841 Sep 20 20:16 org.eclipse.recommenders.completion.rcp.e38_1.0.5.v20130822-0858-b90.jar
+-rwxrwxr-x  1 miguelangel admin     38412 Sep 20 20:16 org.eclipse.recommenders.completion.rcp.overrides_1.0.5.v20130822-0858-b90.jar
+-rwxrwxr-x  1 miguelangel admin     76132 Sep 20 20:16 org.eclipse.recommenders.completion.rcp.subwords_1.0.5.v20130822-0858-b90.jar
+-rwxrwxr-x  1 miguelangel admin     34490 Sep 20 20:16 org.eclipse.recommenders.completion.rcp.templates_1.0.5.v20130822-0858-b90.jar
+-rwxrwxr-x  1 miguelangel admin     86287 Sep 20 20:16 org.eclipse.recommenders.completion.rcp_1.0.5.v20130822-0858-b90.jar
+drwxr-xr-x 13 miguelangel admin       442 Jan 16 22:18 org.eclipse.recommenders.doc_1.0.5.v20130822-0858-b90
+-rwxrwxr-x  1 miguelangel admin    119519 Sep 20 20:16 org.eclipse.recommenders.extdoc.rcp_1.0.5.v20130822-0858-b90.jar
+-rwxrwxr-x  1 miguelangel admin     18429 Sep 20 20:16 org.eclipse.recommenders.extdoc_1.0.5.v20130822-0858-b90.jar
+-rwxrwxr-x  1 miguelangel admin     14588 Sep 20 20:16 org.eclipse.recommenders.injection_1.0.5.v20130822-0858-b90.jar
+-rwxrwxr-x  1 miguelangel admin     13049 Sep 20 20:16 org.eclipse.recommenders.jayes.serialization_1.0.5.v20130822-0858-b90.jar
+-rwxrwxr-x  1 miguelangel admin     60734 Sep 20 20:16 org.eclipse.recommenders.jayes_1.0.5.v20130822-0858-b90.jar
+-rwxrwxr-x  1 miguelangel admin    132212 Sep 20 20:16 org.eclipse.recommenders.rcp_1.0.5.v20130822-0858-b90.jar
+-rwxrwxr-x  1 miguelangel admin     67211 Sep 20 20:16 org.eclipse.recommenders.utils.rcp_1.0.5.v20130822-0858-b90.jar
+-rwxrwxr-x  1 miguelangel admin    112700 Sep 20 20:16 org.eclipse.recommenders.utils_1.0.5.v20130822-0858-b90.jar
+-rwxrwxr-x  1 miguelangel admin    296507 Sep 20 20:16 org.eclipse.search.source_3.9.1.v20131121-1346.jar
+-rwxrwxr-x  1 miguelangel admin    472643 Sep 20 20:16 org.eclipse.search_3.9.1.v20131121-1346.jar
+-rwxrwxr-x  1 miguelangel admin   1923538 Sep 20 20:16 org.eclipse.swt.cocoa.macosx.x86_64.source_3.102.1.v20140206-1358.jar
+-rwxrwxr-x  1 miguelangel admin   2274015 Sep 20 20:16 org.eclipse.swt.cocoa.macosx.x86_64_3.102.1.v20140206-1358.jar
+-rwxrwxr-x  1 miguelangel admin     18483 Sep 20 20:16 org.eclipse.swt_3.102.1.v20140206-1334.jar
+-rwxrwxr-x  1 miguelangel admin    377638 Sep 20 20:16 org.eclipse.team.core.source_3.7.0.v20130514-1224.jar
+-rwxrwxr-x  1 miguelangel admin    403539 Sep 20 20:16 org.eclipse.team.core_3.7.0.v20130514-1224.jar
+-rwxrwxr-x  1 miguelangel admin    583136 Sep 20 20:16 org.eclipse.team.cvs.core_3.3.502.v20131127-1657.jar
+-rwxrwxr-x  1 miguelangel admin     28201 Sep 20 20:16 org.eclipse.team.cvs.ssh2_3.2.302.v20131127-1657.jar
+-rwxrwxr-x  1 miguelangel admin   1695212 Sep 20 20:16 org.eclipse.team.cvs.ui_3.3.600.v20130514-1224.jar
+-rwxrwxr-x  1 miguelangel admin    784016 Sep 20 20:16 org.eclipse.team.ui.source_3.7.1.v20130729-1104.jar
+-rwxrwxr-x  1 miguelangel admin   1438906 Sep 20 20:16 org.eclipse.team.ui_3.7.1.v20130729-1104.jar
+-rwxrwxr-x  1 miguelangel admin    264288 Sep 20 20:16 org.eclipse.text.source_3.5.300.v20130515-1451.jar
+-rwxrwxr-x  1 miguelangel admin    249432 Sep 20 20:16 org.eclipse.text_3.5.300.v20130515-1451.jar
+-rwxrwxr-x  1 miguelangel admin     97123 Sep 20 20:16 org.eclipse.ui.browser.source_3.4.100.v20130527-1656.jar
+-rwxrwxr-x  1 miguelangel admin    192768 Sep 20 20:16 org.eclipse.ui.browser_3.4.100.v20130527-1656.jar
+-rwxrwxr-x  1 miguelangel admin    248883 Sep 20 20:16 org.eclipse.ui.cheatsheets.source_3.4.200.v20130326-1254.jar
+-rwxrwxr-x  1 miguelangel admin    330356 Sep 20 20:16 org.eclipse.ui.cheatsheets_3.4.200.v20130326-1254.jar
+-rwxrwxr-x  1 miguelangel admin    116864 Sep 20 20:16 org.eclipse.ui.console.source_3.5.200.v20130514-0954.jar
+-rwxrwxr-x  1 miguelangel admin    161127 Sep 20 20:16 org.eclipse.ui.console_3.5.200.v20130514-0954.jar
+-rwxrwxr-x  1 miguelangel admin    319097 Sep 20 20:16 org.eclipse.ui.editors.source_3.8.100.v20130513-1637.jar
+-rwxrwxr-x  1 miguelangel admin    577037 Sep 20 20:16 org.eclipse.ui.editors_3.8.100.v20130513-1637.jar
+-rwxrwxr-x  1 miguelangel admin     83834 Sep 20 20:16 org.eclipse.ui.externaltools.source_3.2.200.v20130508-2007.jar
+-rwxrwxr-x  1 miguelangel admin    137288 Sep 20 20:16 org.eclipse.ui.externaltools_3.2.200.v20130508-2007.jar
+-rwxrwxr-x  1 miguelangel admin    207555 Sep 20 20:16 org.eclipse.ui.forms.source_3.6.1.v20130822-1117.jar
+-rwxrwxr-x  1 miguelangel admin    302339 Sep 20 20:16 org.eclipse.ui.forms_3.6.1.v20130822-1117.jar
+-rwxrwxr-x  1 miguelangel admin     38179 Sep 20 20:16 org.eclipse.ui.ide.application.source_1.0.401.v20131105-1007.jar
+-rwxrwxr-x  1 miguelangel admin     66244 Sep 20 20:16 org.eclipse.ui.ide.application_1.0.401.v20131105-1007.jar
+-rwxrwxr-x  1 miguelangel admin   1388256 Sep 20 20:16 org.eclipse.ui.ide.source_3.9.2.v20131004-0923.jar
+-rwxrwxr-x  1 miguelangel admin   2366198 Sep 20 20:16 org.eclipse.ui.ide_3.9.2.v20131004-0923.jar
+-rwxrwxr-x  1 miguelangel admin    259924 Sep 20 20:16 org.eclipse.ui.intro.source_3.4.200.v20130326-1254.jar
+-rwxrwxr-x  1 miguelangel admin     58115 Sep 20 20:16 org.eclipse.ui.intro.universal.source_3.2.600.v20130326-1254.jar
+drwxr-xr-x 13 miguelangel admin       442 Jan 16 22:18 org.eclipse.ui.intro.universal_3.2.600.v20130326-1254
+-rwxrwxr-x  1 miguelangel admin    309441 Sep 20 20:17 org.eclipse.ui.intro_3.4.200.v20130326-1254.jar
+-rwxrwxr-x  1 miguelangel admin     74200 Sep 20 20:17 org.eclipse.ui.navigator.resources.source_3.4.501.v20131021-1545.jar
+-rwxrwxr-x  1 miguelangel admin    121351 Sep 20 20:17 org.eclipse.ui.navigator.resources_3.4.501.v20131021-1545.jar
+-rwxrwxr-x  1 miguelangel admin    310092 Sep 20 20:17 org.eclipse.ui.navigator.source_3.5.300.v20130517-0139.jar
+-rwxrwxr-x  1 miguelangel admin    406375 Sep 20 20:17 org.eclipse.ui.navigator_3.5.300.v20130517-0139.jar
+-rwxrwxr-x  1 miguelangel admin     29448 Sep 20 20:17 org.eclipse.ui.net.source_1.2.200.v20120807-0927.jar
+-rwxrwxr-x  1 miguelangel admin     48832 Sep 20 20:17 org.eclipse.ui.net_1.2.200.v20120807-0927.jar
+-rwxrwxr-x  1 miguelangel admin    146157 Sep 20 20:17 org.eclipse.ui.source_3.105.0.v20130522-1122.jar
+-rwxrwxr-x  1 miguelangel admin     67513 Sep 20 20:17 org.eclipse.ui.trace_1.0.100.v20130508-1926.jar
+-rwxrwxr-x  1 miguelangel admin    139749 Sep 20 20:17 org.eclipse.ui.views.log_1.0.400.v20130515-2009.jar
+-rwxrwxr-x  1 miguelangel admin     78635 Sep 20 20:17 org.eclipse.ui.views.properties.tabbed.source_3.6.0.v20130515-1857.jar
+-rwxrwxr-x  1 miguelangel admin    106563 Sep 20 20:17 org.eclipse.ui.views.properties.tabbed_3.6.0.v20130515-1857.jar
+-rwxrwxr-x  1 miguelangel admin     80598 Sep 20 20:17 org.eclipse.ui.views.source_3.6.100.v20130326-1250.jar
+-rwxrwxr-x  1 miguelangel admin     91328 Sep 20 20:17 org.eclipse.ui.views_3.6.100.v20130326-1250.jar
+-rwxrwxr-x  1 miguelangel admin   2698634 Sep 20 20:17 org.eclipse.ui.workbench.source_3.105.2.v20140211-1711.jar
+-rwxrwxr-x  1 miguelangel admin    401477 Sep 20 20:17 org.eclipse.ui.workbench.texteditor.source_3.8.101.v20130729-1318.jar
+-rwxrwxr-x  1 miguelangel admin    584739 Sep 20 20:17 org.eclipse.ui.workbench.texteditor_3.8.101.v20130729-1318.jar
+-rwxrwxr-x  1 miguelangel admin   3844116 Sep 20 20:17 org.eclipse.ui.workbench_3.105.2.v20140211-1711.jar
+-rwxrwxr-x  1 miguelangel admin    154349 Sep 20 20:17 org.eclipse.ui_3.105.0.v20130522-1122.jar
+-rwxrwxr-x  1 miguelangel admin     83940 Sep 20 20:17 org.eclipse.update.configurator.source_3.3.200.v20140203-1328.jar
+-rwxrwxr-x  1 miguelangel admin    101021 Sep 20 20:17 org.eclipse.update.configurator_3.3.200.v20140203-1328.jar
+-rwxrwxr-x  1 miguelangel admin    300412 Sep 20 20:17 org.eclipse.wb.core.databinding_1.6.1.r43x201309092318.jar
+-rwxrwxr-x  1 miguelangel admin   2214683 Sep 20 20:17 org.eclipse.wb.core.java_1.6.1.r43x201309092318.jar
+drwxr-xr-x  8 miguelangel admin       272 Jan 16 22:18 org.eclipse.wb.core.lib_1.6.1.r43x201309092314
+-rwxrwxr-x  1 miguelangel admin     49078 Sep 20 20:17 org.eclipse.wb.core.ui_1.6.1.r43x201309092325.jar
+-rwxrwxr-x  1 miguelangel admin   2053048 Sep 20 20:17 org.eclipse.wb.core_1.6.1.r43x201309092314.jar
+-rwxrwxr-x  1 miguelangel admin    442596 Sep 20 20:17 org.eclipse.wb.layout.group_1.6.1.r43x201309092345.jar
+-rwxrwxr-x  1 miguelangel admin    107476 Sep 20 20:17 org.eclipse.wb.os.macosx_1.6.1.r43x201309092314.jar
+-rwxrwxr-x  1 miguelangel admin     12321 Sep 20 20:17 org.eclipse.wb.os_1.6.1.r43x201309092314.jar
+-rwxrwxr-x  1 miguelangel admin    139392 Sep 20 20:17 org.eclipse.wb.rcp.databinding.emf_1.6.1.r43x201309100008.jar
+-rwxrwxr-x  1 miguelangel admin    606536 Sep 20 20:17 org.eclipse.wb.rcp.databinding_1.6.1.r43x201309100008.jar
+-rwxrwxr-x  1 miguelangel admin    133085 Sep 20 20:17 org.eclipse.wb.rcp.nebula_1.6.1.r43x201309100008.jar
+-rwxrwxr-x  1 miguelangel admin     59985 Sep 20 20:17 org.eclipse.wb.rcp.swing2swt_1.6.1.r43x201309100008.jar
+-rwxrwxr-x  1 miguelangel admin   1478746 Sep 20 20:17 org.eclipse.wb.rcp_1.6.1.r43x201309100008.jar
+drwxr-xr-x  8 miguelangel admin       272 Jan 16 22:18 org.eclipse.wb.runtime.lib_1.6.1.r43x201309092314
+-rwxrwxr-x  1 miguelangel admin      7368 Sep 20 20:17 org.eclipse.wb.runtime_1.6.1.r43x201309092314.jar
+-rwxrwxr-x  1 miguelangel admin     47313 Sep 20 20:17 org.eclipse.wb.swt.widgets.baseline_1.6.1.r43x201309100008.jar
+-rwxrwxr-x  1 miguelangel admin    898862 Sep 20 20:17 org.eclipse.wb.swt_1.6.1.r43x201309092350.jar
+-rwxrwxr-x  1 miguelangel admin     53377 Sep 20 20:17 org.eclipse.wst.common.core_1.2.0.v200908252030.jar
+-rwxrwxr-x  1 miguelangel admin    214896 Sep 20 20:17 org.eclipse.wst.common.emf_1.2.200.v201301171800.jar
+-rwxrwxr-x  1 miguelangel admin    140292 Sep 20 20:17 org.eclipse.wst.common.emfworkbench.integration_1.2.101.v201107140600.jar
+-rwxrwxr-x  1 miguelangel admin     44139 Sep 20 20:17 org.eclipse.wst.common.environment_1.0.400.v200912181832.jar
+-rwxrwxr-x  1 miguelangel admin    149382 Sep 20 20:17 org.eclipse.wst.common.frameworks.ui_1.2.201.v201208292200.jar
+-rwxrwxr-x  1 miguelangel admin    114406 Sep 20 20:17 org.eclipse.wst.common.frameworks_1.2.200.v201203141800.jar
+-rwxrwxr-x  1 miguelangel admin      7764 Sep 20 20:17 org.eclipse.wst.common.infopop_1.0.300.v201004280700.jar
+-rwxrwxr-x  1 miguelangel admin    135747 Sep 20 20:17 org.eclipse.wst.common.modulecore.ui_1.0.201.v201208241600.jar
+-rwxrwxr-x  1 miguelangel admin    391873 Sep 20 20:17 org.eclipse.wst.common.modulecore_1.2.302.v201311131500.jar
+-rwxrwxr-x  1 miguelangel admin    360169 Sep 20 20:17 org.eclipse.wst.common.project.facet.core_1.4.300.v201111030424.jar
+-rwxrwxr-x  1 miguelangel admin    274039 Sep 20 20:17 org.eclipse.wst.common.snippets_1.2.200.v201204260225.jar
+-rwxrwxr-x  1 miguelangel admin    141358 Sep 20 20:17 org.eclipse.wst.common.ui_1.1.500.v200911190730.jar
+-rwxrwxr-x  1 miguelangel admin     42742 Sep 20 20:17 org.eclipse.wst.common.uriresolver_1.2.100.v201305141800.jar
+-rwxrwxr-x  1 miguelangel admin    400141 Sep 20 20:17 org.eclipse.wst.dtd.core_1.1.700.v201210082138.jar
+-rwxrwxr-x  1 miguelangel admin      8941 Sep 20 20:17 org.eclipse.wst.dtd.ui.infopop_1.0.400.v201008112018.jar
+-rwxrwxr-x  1 miguelangel admin    238241 Sep 20 20:17 org.eclipse.wst.dtd.ui_1.0.801.v201308100603.jar
+-rwxrwxr-x  1 miguelangel admin     38445 Sep 20 20:17 org.eclipse.wst.dtdeditor.doc.user_1.0.700.v201008112018.jar
+-rwxrwxr-x  1 miguelangel admin     42863 Sep 20 20:17 org.eclipse.wst.internet.cache_1.0.600.v201203071939.jar
+-rwxrwxr-x  1 miguelangel admin    367095 Sep 20 20:17 org.eclipse.wst.server.core_1.5.100.v20140109_1422.jar
+-rwxrwxr-x  1 miguelangel admin    448829 Sep 20 20:17 org.eclipse.wst.sse.core_1.1.802.v201401101620.jar
+-rwxrwxr-x  1 miguelangel admin    122162 Sep 20 20:17 org.eclipse.wst.sse.doc.user_1.1.100.v201005192212.jar
+-rw-r--r--  1 miguelangel admin      9051 Sep 20 20:17 org.eclipse.wst.sse.ui.infopop_1.0.300.v201004150328.jar
+-rwxrwxr-x  1 miguelangel admin   1015940 Sep 20 20:17 org.eclipse.wst.sse.ui_1.3.201.v201401132128.jar
+-rwxrwxr-x  1 miguelangel admin    166304 Sep 20 20:17 org.eclipse.wst.standard.schemas_1.0.700.v201304171716.jar
+-rwxrwxr-x  1 miguelangel admin      9336 Sep 20 20:17 org.eclipse.wst.validation.infopop_1.0.300.v200806041506.jar
+-rwxrwxr-x  1 miguelangel admin    147409 Sep 20 20:17 org.eclipse.wst.validation.ui_1.2.401.v201310231535.jar
+-rwxrwxr-x  1 miguelangel admin    410377 Sep 20 20:17 org.eclipse.wst.validation_1.2.501.v201311151800.jar
+-rwxrwxr-x  1 miguelangel admin    740510 Sep 20 20:17 org.eclipse.wst.xml.core_1.1.801.v201308100603.jar
+-rwxrwxr-x  1 miguelangel admin     16351 Sep 20 20:17 org.eclipse.wst.xml.ui.infopop_1.0.400.v201004292007.jar
+-rwxrwxr-x  1 miguelangel admin    971831 Sep 20 20:17 org.eclipse.wst.xml.ui_1.1.401.v201308132110.jar
+-rwxrwxr-x  1 miguelangel admin    129724 Sep 20 20:17 org.eclipse.wst.xmleditor.doc.user_1.0.700.v201005192212.jar
+-rwxrwxr-x  1 miguelangel admin     73499 Sep 20 20:17 org.eclipse.wst.xsd.core_1.1.800.v201302131613.jar
+-rwxrwxr-x  1 miguelangel admin   1286564 Sep 20 20:17 org.eclipse.wst.xsd.ui_1.2.500.v201203081826.jar
+-rwxrwxr-x  1 miguelangel admin    120862 Sep 20 20:17 org.eclipse.wst.xsdeditor.doc.user_1.0.800.v201005192212.jar
+-rwxrwxr-x  1 miguelangel admin    223196 Sep 20 20:17 org.eclipse.xsd.edit_2.6.0.v20140203-1126.jar
+-rwxrwxr-x  1 miguelangel admin    996076 Sep 20 20:17 org.eclipse.xsd_2.9.1.v20140203-1126.jar
+-rwxrwxr-x  1 miguelangel admin     55802 Sep 20 20:17 org.hamcrest.core_1.3.0.v201303031735.jar
+-rwxrwxr-x  1 miguelangel admin    749904 Sep 20 20:17 org.jboss.netty_3.2.5.Final-20130531-2315.jar
+-rwxrwxr-x  1 miguelangel admin    184626 Sep 20 20:17 org.jdom_1.1.1.v201101151400.jar
+-rwxrwxr-x  1 miguelangel admin    315528 Sep 20 20:17 org.jsoup_1.7.2.v201304221138.jar
+drwxr-xr-x  8 miguelangel admin       272 Jan 16 22:18 org.junit_4.11.0.v201303080030
+-rwxrwxr-x  1 miguelangel admin    228617 Sep 20 20:17 org.objectweb.asm_3.3.1.v201105211655.jar
+-rwxrwxr-x  1 miguelangel admin    363567 Sep 20 20:17 org.sat4j.core_2.3.5.v201308161310.jar
+-rwxrwxr-x  1 miguelangel admin    242569 Sep 20 20:17 org.sat4j.pb_2.3.5.v201308161310.jar
+-rwxrwxr-x  1 miguelangel admin     35173 Sep 20 20:17 org.slf4j.api_1.7.2.v20121108-1250.jar
+-rwxrwxr-x  1 miguelangel admin     32952 Sep 20 20:17 org.w3c.css.sac_1.3.1.v200903091627.jar
+-rwxrwxr-x  1 miguelangel admin     15995 Sep 20 20:17 org.w3c.dom.smil_1.0.0.v200806040011.jar
+-rwxrwxr-x  1 miguelangel admin     87897 Sep 20 20:17 org.w3c.dom.svg_1.1.0.v201011041433.jar
+drwxr-xr-x  3 miguelangel admin       102 Jan 16 21:07 xml
+
+Kony_Visualizer_Enterprise/plugins/org.apache.ant_1.8.4.v201303080030:
+total 20
+-rw-r--r--  1 miguelangel admin 6148 Jan 16 22:18 .DS_Store
+drwxr-xr-x  6 miguelangel admin  204 Jan 16 21:06 META-INF
+-rwxrwxr-x  1 miguelangel admin 4212 Sep 20 20:16 about.html
+drwxr-xr-x  7 miguelangel admin  238 Jan 16 21:06 about_files
+drwxr-xr-x 15 miguelangel admin  510 Jan 16 21:06 bin
+drwxr-xr-x 15 miguelangel admin  510 Jan 16 21:06 etc
+drwxr-xr-x 24 miguelangel admin  816 Jan 16 21:06 lib
+-rwxrwxr-x  1 miguelangel admin  591 Sep 20 20:16 plugin.properties
+
+Kony_Visualizer_Enterprise/plugins/org.apache.ant_1.8.4.v201303080030/META-INF:
+total 28
+-rwxrwxr-x 1 miguelangel admin 7817 Sep 20 20:16 ECLIPSE_.RSA
+-rwxrwxr-x 1 miguelangel admin 4378 Sep 20 20:16 ECLIPSE_.SF
+-rwxrwxr-x 1 miguelangel admin 7980 Sep 20 20:16 MANIFEST.MF
+-rwxrwxr-x 1 miguelangel admin  113 Sep 20 20:16 eclipse.inf
+
+Kony_Visualizer_Enterprise/plugins/org.apache.ant_1.8.4.v201303080030/about_files:
+total 44
+-rwxrwxr-x 1 miguelangel admin 11560 Sep 20 20:16 ASL-LICENSE-2.0.txt
+-rwxrwxr-x 1 miguelangel admin  5307 Sep 20 20:16 DOM-LICENSE.html
+-rwxrwxr-x 1 miguelangel admin 15561 Sep 20 20:16 LICENSE
+-rwxrwxr-x 1 miguelangel admin   224 Sep 20 20:16 NOTICE
+-rwxrwxr-x 1 miguelangel admin  3582 Sep 20 20:16 SAX-LICENSE.html
+
+Kony_Visualizer_Enterprise/plugins/org.apache.ant_1.8.4.v201303080030/bin:
+total 72
+-rwxrwxr-x 1 miguelangel admin 9916 Sep 20 20:16 ant
+-rwxrwxr-x 1 miguelangel admin 7472 Sep 20 20:16 ant.bat
+-rwxrwxr-x 1 miguelangel admin 2857 Sep 20 20:16 ant.cmd
+-rwxrwxr-x 1 miguelangel admin  861 Sep 20 20:16 antRun
+-rwxrwxr-x 1 miguelangel admin 1536 Sep 20 20:16 antRun.bat
+-rwxrwxr-x 1 miguelangel admin 2199 Sep 20 20:16 antRun.pl
+-rwxrwxr-x 1 miguelangel admin 3410 Sep 20 20:16 antenv.cmd
+-rwxrwxr-x 1 miguelangel admin 3223 Sep 20 20:16 complete-ant-cmd.pl
+-rwxrwxr-x 1 miguelangel admin 4315 Sep 20 20:16 envset.cmd
+-rwxrwxr-x 1 miguelangel admin 1116 Sep 20 20:16 lcp.bat
+-rwxrwxr-x 1 miguelangel admin 4422 Sep 20 20:16 runant.pl
+-rwxrwxr-x 1 miguelangel admin 3299 Sep 20 20:16 runant.py
+-rwxrwxr-x 1 miguelangel admin 1817 Sep 20 20:16 runrc.cmd
+
+Kony_Visualizer_Enterprise/plugins/org.apache.ant_1.8.4.v201303080030/etc:
+total 240
+-rwxrwxr-x 1 miguelangel admin 19702 Sep 20 20:16 ant-bootstrap.jar
+-rwxrwxr-x 1 miguelangel admin  4797 Sep 20 20:16 changelog.xsl
+drwxr-xr-x 5 miguelangel admin   170 Jan 16 21:06 checkstyle
+-rwxrwxr-x 1 miguelangel admin 18570 Sep 20 20:16 coverage-frames.xsl
+-rwxrwxr-x 1 miguelangel admin 18994 Sep 20 20:16 jdepend-frames.xsl
+-rwxrwxr-x 1 miguelangel admin 11757 Sep 20 20:16 jdepend.xsl
+-rwxrwxr-x 1 miguelangel admin 28504 Sep 20 20:16 junit-frames-xalan1.xsl
+-rwxrwxr-x 1 miguelangel admin 34697 Sep 20 20:16 junit-frames.xsl
+-rwxrwxr-x 1 miguelangel admin 18511 Sep 20 20:16 junit-noframes.xsl
+-rwxrwxr-x 1 miguelangel admin  6092 Sep 20 20:16 log.xsl
+-rwxrwxr-x 1 miguelangel admin 17960 Sep 20 20:16 maudit-frames.xsl
+-rwxrwxr-x 1 miguelangel admin 37833 Sep 20 20:16 mmetrics-frames.xsl
+-rwxrwxr-x 1 miguelangel admin  6215 Sep 20 20:16 tagdiff.xsl
+
+Kony_Visualizer_Enterprise/plugins/org.apache.ant_1.8.4.v201303080030/etc/checkstyle:
+total 24
+-rwxrwxr-x 1 miguelangel admin 11023 Sep 20 20:16 checkstyle-frames.xsl
+-rwxrwxr-x 1 miguelangel admin  1368 Sep 20 20:16 checkstyle-text.xsl
+-rwxrwxr-x 1 miguelangel admin  4779 Sep 20 20:16 checkstyle-xdoc.xsl
+
+Kony_Visualizer_Enterprise/plugins/org.apache.ant_1.8.4.v201303080030/lib:
+total 2460
+-rwxrwxr-x 1 miguelangel admin   11550 Sep 20 20:16 ant-antlr.jar
+-rwxrwxr-x 1 miguelangel admin   14548 Sep 20 20:16 ant-apache-bcel.jar
+-rwxrwxr-x 1 miguelangel admin    9733 Sep 20 20:16 ant-apache-bsf.jar
+-rwxrwxr-x 1 miguelangel admin    8861 Sep 20 20:16 ant-apache-log4j.jar
+-rwxrwxr-x 1 miguelangel admin   45515 Sep 20 20:16 ant-apache-oro.jar
+-rwxrwxr-x 1 miguelangel admin    9563 Sep 20 20:16 ant-apache-regexp.jar
+-rwxrwxr-x 1 miguelangel admin    9886 Sep 20 20:16 ant-apache-resolver.jar
+-rwxrwxr-x 1 miguelangel admin    8097 Sep 20 20:16 ant-apache-xalan2.jar
+-rwxrwxr-x 1 miguelangel admin    9715 Sep 20 20:16 ant-commons-logging.jar
+-rwxrwxr-x 1 miguelangel admin   91451 Sep 20 20:16 ant-commons-net.jar
+-rwxrwxr-x 1 miguelangel admin   28241 Sep 20 20:16 ant-jai.jar
+-rwxrwxr-x 1 miguelangel admin   13773 Sep 20 20:16 ant-javamail.jar
+-rwxrwxr-x 1 miguelangel admin   14024 Sep 20 20:16 ant-jdepend.jar
+-rwxrwxr-x 1 miguelangel admin   12541 Sep 20 20:16 ant-jmf.jar
+-rwxrwxr-x 1 miguelangel admin   46176 Sep 20 20:16 ant-jsch.jar
+-rwxrwxr-x 1 miguelangel admin  108138 Sep 20 20:16 ant-junit.jar
+-rwxrwxr-x 1 miguelangel admin   12923 Sep 20 20:16 ant-junit4.jar
+-rwxrwxr-x 1 miguelangel admin   18429 Sep 20 20:16 ant-launcher.jar
+-rwxrwxr-x 1 miguelangel admin   16215 Sep 20 20:16 ant-netrexx.jar
+-rwxrwxr-x 1 miguelangel admin   13497 Sep 20 20:16 ant-swing.jar
+-rwxrwxr-x 1 miguelangel admin   21004 Sep 20 20:16 ant-testutil.jar
+-rwxrwxr-x 1 miguelangel admin 1941731 Sep 20 20:16 ant.jar
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.core.runtime.compatibility.registry_3.5.200.v20130514-1256:
+total 28
+-rw-r--r-- 1 miguelangel admin 6148 Jan 16 22:18 .DS_Store
+-rwxrwxr-x 1 miguelangel admin  262 Sep 20 20:16 .api_description
+drwxr-xr-x 5 miguelangel admin  170 Jan 16 21:06 META-INF
+-rwxrwxr-x 1 miguelangel admin 1432 Sep 20 20:16 about.html
+-rwxrwxr-x 1 miguelangel admin  603 Sep 20 20:16 fragment.properties
+-rwxrwxr-x 1 miguelangel admin 7326 Sep 20 20:16 runtime_registry_compatibility.jar
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.core.runtime.compatibility.registry_3.5.200.v20130514-1256/META-INF:
+total 16
+-rwxrwxr-x 1 miguelangel admin 7816 Sep 20 20:16 ECLIPSE_.RSA
+-rwxrwxr-x 1 miguelangel admin  474 Sep 20 20:16 ECLIPSE_.SF
+-rwxrwxr-x 1 miguelangel admin 1259 Sep 20 20:16 MANIFEST.MF
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.epp.package.rcp_2.0.2.20140224-0000:
+total 92
+-rw-r--r-- 1 miguelangel admin  6148 Jan 16 22:18 .DS_Store
+drwxr-xr-x 6 miguelangel admin   204 Jan 16 21:06 META-INF
+-rwxrwxr-x 1 miguelangel admin  1432 Sep 20 20:16 about.html
+-rwxrwxr-x 1 miguelangel admin  1328 Sep 20 20:16 about.ini
+-rwxrwxr-x 1 miguelangel admin   175 Sep 20 20:16 about.mappings
+-rwxrwxr-x 1 miguelangel admin  1104 Sep 20 20:16 about.properties
+-rwxrwxr-x 1 miguelangel admin  1052 Sep 20 20:16 eclipse.gif
+-rwxrwxr-x 1 miguelangel admin   654 Sep 20 20:16 eclipse.png
+-rwxrwxr-x 1 miguelangel admin  1706 Sep 20 20:16 eclipse32.gif
+-rwxrwxr-x 1 miguelangel admin  4594 Sep 20 20:16 eclipse32.png
+-rwxrwxr-x 1 miguelangel admin  2371 Sep 20 20:16 eclipse48.gif
+-rwxrwxr-x 1 miguelangel admin  3099 Sep 20 20:16 eclipse48.png
+-rwxrwxr-x 1 miguelangel admin 12710 Sep 20 20:16 eclipse_lg.gif
+-rwxrwxr-x 1 miguelangel admin 13739 Sep 20 20:16 intro-eclipse.png
+-rwxrwxr-x 1 miguelangel admin  2481 Sep 20 20:16 plugin.xml
+-rwxrwxr-x 1 miguelangel admin  1578 Sep 20 20:16 plugin_customization.ini
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.epp.package.rcp_2.0.2.20140224-0000/META-INF:
+total 20
+-rwxrwxr-x 1 miguelangel admin 7816 Sep 20 20:16 ECLIPSE_.RSA
+-rwxrwxr-x 1 miguelangel admin 1186 Sep 20 20:16 ECLIPSE_.SF
+-rwxrwxr-x 1 miguelangel admin 1490 Sep 20 20:16 MANIFEST.MF
+-rwxrwxr-x 1 miguelangel admin   57 Sep 20 20:16 eclipse.inf
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.equinox.launcher.cocoa.macosx.x86_64_1.1.200.v20140116-2212:
+total 72
+-rw-r--r-- 1 miguelangel admin  6148 Jan 16 22:18 .DS_Store
+drwxr-xr-x 5 miguelangel admin   170 Jan 16 21:06 META-INF
+-rwxrwxr-x 1 miguelangel admin  1445 Sep 20 20:16 about.html
+-rwxrwxr-x 1 miguelangel admin 56936 Sep 20 20:16 eclipse_1508.so
+-rwxrwxr-x 1 miguelangel admin   620 Sep 20 20:16 launcher.cocoa.macosx.x86_64.properties
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.equinox.launcher.cocoa.macosx.x86_64_1.1.200.v20140116-2212/META-INF:
+total 16
+-rwxrwxr-x 1 miguelangel admin 7816 Sep 20 20:16 ECLIPSE_.RSA
+-rwxrwxr-x 1 miguelangel admin  406 Sep 20 20:16 ECLIPSE_.SF
+-rwxrwxr-x 1 miguelangel admin 1045 Sep 20 20:16 MANIFEST.MF
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.jdt.debug_3.8.0.v20130514-0841:
+total 920
+-rw-r--r-- 1 miguelangel admin   6148 Jan 16 22:18 .DS_Store
+-rwxrwxr-x 1 miguelangel admin   2350 Sep 20 20:16 .api_description
+-rwxrwxr-x 1 miguelangel admin    242 Sep 20 20:16 .options
+drwxr-xr-x 5 miguelangel admin    170 Jan 16 21:06 META-INF
+-rwxrwxr-x 1 miguelangel admin   1432 Sep 20 20:16 about.html
+-rwxrwxr-x 1 miguelangel admin  55799 Sep 20 20:16 jdi.jar
+-rwxrwxr-x 1 miguelangel admin 840132 Sep 20 20:16 jdimodel.jar
+-rwxrwxr-x 1 miguelangel admin   1738 Sep 20 20:16 plugin.properties
+-rwxrwxr-x 1 miguelangel admin  13641 Sep 20 20:16 plugin.xml
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.jdt.debug_3.8.0.v20130514-0841/META-INF:
+total 16
+-rwxrwxr-x 1 miguelangel admin 7816 Sep 20 20:16 ECLIPSE_.RSA
+-rwxrwxr-x 1 miguelangel admin  634 Sep 20 20:16 ECLIPSE_.SF
+-rwxrwxr-x 1 miguelangel admin 3237 Sep 20 20:16 MANIFEST.MF
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.pde.build_3.8.100.v20130514-1028:
+total 384
+-rw-r--r-- 1 miguelangel admin   6148 Jan 16 22:18 .DS_Store
+-rwxrwxr-x 1 miguelangel admin    384 Sep 20 20:16 .api_description
+-rwxrwxr-x 1 miguelangel admin     94 Sep 20 20:16 .options
+drwxr-xr-x 6 miguelangel admin    204 Jan 16 21:06 META-INF
+-rwxrwxr-x 1 miguelangel admin   3408 Sep 20 20:16 about.html
+drwxr-xr-x 3 miguelangel admin    102 Jan 16 21:06 about_files
+drwxr-xr-x 5 miguelangel admin    170 Jan 16 21:06 data
+drwxr-xr-x 3 miguelangel admin    102 Jan 16 21:06 lib
+-rwxrwxr-x 1 miguelangel admin 360387 Sep 20 20:16 pdebuild.jar
+-rwxrwxr-x 1 miguelangel admin    663 Sep 20 20:16 plugin.properties
+-rwxrwxr-x 1 miguelangel admin   5694 Sep 20 20:16 plugin.xml
+drwxr-xr-x 6 miguelangel admin    204 Jan 16 21:06 scripts
+drwxr-xr-x 6 miguelangel admin    204 Jan 16 21:06 templates
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.pde.build_3.8.100.v20130514-1028/META-INF:
+total 24
+-rwxrwxr-x 1 miguelangel admin 7817 Sep 20 20:16 ECLIPSE_.RSA
+-rwxrwxr-x 1 miguelangel admin 2611 Sep 20 20:16 ECLIPSE_.SF
+-rwxrwxr-x 1 miguelangel admin 5596 Sep 20 20:16 MANIFEST.MF
+-rwxrwxr-x 1 miguelangel admin   66 Sep 20 20:16 eclipse.inf
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.pde.build_3.8.100.v20130514-1028/about_files:
+total 12
+-rwxrwxr-x 1 miguelangel admin 11358 Sep 20 20:16 LICENSE-2.0.txt
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.pde.build_3.8.100.v20130514-1028/data:
+total 4
+drwxr-xr-x 4 miguelangel admin  136 Jan 16 21:06 21
+drwxr-xr-x 4 miguelangel admin  136 Jan 16 21:06 30
+-rwxrwxr-x 1 miguelangel admin 1721 Sep 20 20:16 env.properties
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.pde.build_3.8.100.v20130514-1028/data/21:
+total 0
+drwxr-xr-x 3 miguelangel admin 102 Jan 16 21:06 fragment
+drwxr-xr-x 3 miguelangel admin 102 Jan 16 21:06 plugin
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.pde.build_3.8.100.v20130514-1028/data/21/fragment:
+total 4
+-rwxrwxr-x 1 miguelangel admin 325 Sep 20 20:16 fragment.xml
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.pde.build_3.8.100.v20130514-1028/data/21/plugin:
+total 4
+-rwxrwxr-x 1 miguelangel admin 257 Sep 20 20:16 plugin.xml
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.pde.build_3.8.100.v20130514-1028/data/30:
+total 0
+drwxr-xr-x 4 miguelangel admin 136 Jan 16 21:06 fragment
+drwxr-xr-x 4 miguelangel admin 136 Jan 16 21:06 plugin
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.pde.build_3.8.100.v20130514-1028/data/30/fragment:
+total 4
+drwxr-xr-x 3 miguelangel admin 102 Jan 16 21:06 META-INF
+-rwxrwxr-x 1 miguelangel admin 186 Sep 20 20:16 fragment.xml
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.pde.build_3.8.100.v20130514-1028/data/30/fragment/META-INF:
+total 4
+-rwxrwxr-x 1 miguelangel admin 283 Sep 20 20:16 MANIFEST.MF
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.pde.build_3.8.100.v20130514-1028/data/30/plugin:
+total 4
+drwxr-xr-x 3 miguelangel admin 102 Jan 16 21:06 META-INF
+-rwxrwxr-x 1 miguelangel admin 186 Sep 20 20:16 plugin.xml
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.pde.build_3.8.100.v20130514-1028/data/30/plugin/META-INF:
+total 4
+-rwxrwxr-x 1 miguelangel admin 182 Sep 20 20:16 MANIFEST.MF
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.pde.build_3.8.100.v20130514-1028/lib:
+total 88
+-rwxrwxr-x 1 miguelangel admin 86115 Sep 20 20:16 pdebuild-ant.jar
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.pde.build_3.8.100.v20130514-1028/scripts:
+total 24
+-rwxrwxr-x 1 miguelangel admin  7022 Sep 20 20:16 build.xml
+-rwxrwxr-x 1 miguelangel admin 10850 Sep 20 20:16 genericTargets.xml
+-rwxrwxr-x 1 miguelangel admin  3879 Sep 20 20:16 package.xml
+drwxr-xr-x 4 miguelangel admin   136 Jan 16 21:06 productBuild
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.pde.build_3.8.100.v20130514-1028/scripts/productBuild:
+total 12
+-rwxrwxr-x 1 miguelangel admin 7305 Sep 20 20:16 allElements.xml
+-rwxrwxr-x 1 miguelangel admin 3120 Sep 20 20:16 productBuild.xml
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.pde.build_3.8.100.v20130514-1028/templates:
+total 0
+drwxr-xr-x 3 miguelangel admin 102 Jan 16 21:06 features
+drwxr-xr-x 6 miguelangel admin 204 Jan 16 21:06 headless-build
+drwxr-xr-x 5 miguelangel admin 170 Jan 16 21:06 packager
+drwxr-xr-x 3 miguelangel admin 102 Jan 16 21:06 plugins
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.pde.build_3.8.100.v20130514-1028/templates/features:
+total 4
+-rwxrwxr-x 1 miguelangel admin 1813 Sep 20 20:16 customBuildCallbacks.xml
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.pde.build_3.8.100.v20130514-1028/templates/headless-build:
+total 28
+-rwxrwxr-x 1 miguelangel admin  2900 Sep 20 20:16 allElements.xml
+-rwxrwxr-x 1 miguelangel admin 12051 Sep 20 20:16 build.properties
+-rwxrwxr-x 1 miguelangel admin  3563 Sep 20 20:16 customAssembly.xml
+-rwxrwxr-x 1 miguelangel admin  7394 Sep 20 20:16 customTargets.xml
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.pde.build_3.8.100.v20130514-1028/templates/packager:
+total 16
+-rwxrwxr-x 1 miguelangel admin 2658 Sep 20 20:16 customTargets.xml
+-rwxrwxr-x 1 miguelangel admin 4372 Sep 20 20:16 packager.properties
+-rwxrwxr-x 1 miguelangel admin 1563 Sep 20 20:16 packaging.properties
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.pde.build_3.8.100.v20130514-1028/templates/plugins:
+total 12
+-rwxrwxr-x 1 miguelangel admin 8878 Sep 20 20:16 customBuildCallbacks.xml
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.platform_4.3.2.v20140221-1700:
+total 600
+-rw-r--r--  1 miguelangel admin   6148 Jan 16 22:18 .DS_Store
+-rwxrwxr-x  1 miguelangel admin    204 Sep 20 20:16 .api_description
+-rwxrwxr-x  1 miguelangel admin   3525 Sep 20 20:16 LegacyIDE.e4xmi
+drwxr-xr-x  5 miguelangel admin    170 Jan 16 21:06 META-INF
+-rwxrwxr-x  1 miguelangel admin   1432 Sep 20 20:16 about.html
+-rwxrwxr-x  1 miguelangel admin    947 Sep 20 20:16 about.ini
+-rwxrwxr-x  1 miguelangel admin    175 Sep 20 20:16 about.mappings
+-rwxrwxr-x  1 miguelangel admin   1086 Sep 20 20:16 about.properties
+-rwxrwxr-x  1 miguelangel admin   3201 Sep 20 20:16 book.css
+drwxr-xr-x  4 miguelangel admin    136 Jan 16 21:06 cheatsheets
+drwxr-xr-x 12 miguelangel admin    408 Jan 16 21:06 css
+-rwxrwxr-x  1 miguelangel admin    356 Sep 20 20:16 disabled_book.css
+-rwxrwxr-x  1 miguelangel admin   1034 Sep 20 20:16 eclipse16.gif
+-rwxrwxr-x  1 miguelangel admin    868 Sep 20 20:16 eclipse16.png
+-rwxrwxr-x  1 miguelangel admin  58235 Sep 20 20:16 eclipse256.png
+-rwxrwxr-x  1 miguelangel admin   1716 Sep 20 20:16 eclipse32.gif
+-rwxrwxr-x  1 miguelangel admin   2577 Sep 20 20:16 eclipse32.png
+-rwxrwxr-x  1 miguelangel admin   2713 Sep 20 20:16 eclipse48.gif
+-rwxrwxr-x  1 miguelangel admin   4408 Sep 20 20:16 eclipse48.png
+-rwxrwxr-x  1 miguelangel admin  10850 Sep 20 20:16 eclipse_lg.gif
+-rwxrwxr-x  1 miguelangel admin    339 Sep 20 20:16 helpData.xml
+drwxr-xr-x 21 miguelangel admin    714 Jan 16 21:06 images
+drwxr-xr-x  8 miguelangel admin    272 Jan 16 21:06 intro
+-rwxrwxr-x  1 miguelangel admin  13739 Sep 20 20:16 intro-eclipse.png
+-rwxrwxr-x  1 miguelangel admin   2205 Sep 20 20:16 introData.xml
+-rwxrwxr-x  1 miguelangel admin     32 Sep 20 20:16 macosx_narrow_book.css
+-rwxrwxr-x  1 miguelangel admin   3359 Sep 20 20:16 narrow_book.css
+-rwxrwxr-x  1 miguelangel admin   4897 Sep 20 20:16 platform.jar
+-rwxrwxr-x  1 miguelangel admin   2590 Sep 20 20:16 plugin.properties
+-rwxrwxr-x  1 miguelangel admin   7167 Sep 20 20:16 plugin.xml
+-rwxrwxr-x  1 miguelangel admin   1452 Sep 20 20:16 plugin_customization.ini
+-rwxrwxr-x  1 miguelangel admin    715 Sep 20 20:16 plugin_customization.properties
+-rwxrwxr-x  1 miguelangel admin 409566 Sep 20 20:16 splash.bmp
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.platform_4.3.2.v20140221-1700/META-INF:
+total 24
+-rwxrwxr-x 1 miguelangel admin 7817 Sep 20 20:16 ECLIPSE_.RSA
+-rwxrwxr-x 1 miguelangel admin 6712 Sep 20 20:16 ECLIPSE_.SF
+-rwxrwxr-x 1 miguelangel admin 7634 Sep 20 20:16 MANIFEST.MF
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.platform_4.3.2.v20140221-1700/cheatsheets:
+total 8
+-rwxrwxr-x 1 miguelangel admin 2715 Sep 20 20:16 cvs_checkout.xml
+-rwxrwxr-x 1 miguelangel admin 2890 Sep 20 20:16 cvs_merge.xml
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.platform_4.3.2.v20140221-1700/css:
+total 40
+-rwxrwxr-x 1 miguelangel admin 1240 Sep 20 20:16 e4_basestyle.css
+-rwxrwxr-x 1 miguelangel admin  950 Sep 20 20:16 e4_classic_win7.css
+-rwxrwxr-x 1 miguelangel admin  949 Sep 20 20:16 e4_classic_winxp.css
+-rwxrwxr-x 1 miguelangel admin 1072 Sep 20 20:16 e4_default.css
+-rwxrwxr-x 1 miguelangel admin 1243 Sep 20 20:16 e4_default_gtk.css
+-rwxrwxr-x 1 miguelangel admin 1256 Sep 20 20:16 e4_default_mac.css
+-rwxrwxr-x 1 miguelangel admin 1224 Sep 20 20:16 e4_default_mru_on_win7.css
+-rwxrwxr-x 1 miguelangel admin 1225 Sep 20 20:16 e4_default_win7.css
+-rwxrwxr-x 1 miguelangel admin 1269 Sep 20 20:16 e4_default_winxp_blu.css
+-rwxrwxr-x 1 miguelangel admin 1290 Sep 20 20:16 e4_default_winxp_olv.css
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.platform_4.3.2.v20140221-1700/images:
+total 72
+-rwxrwxr-x  1 miguelangel admin 3606 Sep 20 20:16 dragHandle.png
+-rwxrwxr-x  1 miguelangel admin 2993 Sep 20 20:16 gtkGrey.png
+-rwxrwxr-x  1 miguelangel admin  108 Sep 20 20:16 gtkHandle.png
+-rwxrwxr-x  1 miguelangel admin  138 Sep 20 20:16 gtkTSFrame.png
+-rwxrwxr-x  1 miguelangel admin  819 Sep 20 20:16 macGrey.png
+-rwxrwxr-x  1 miguelangel admin  108 Sep 20 20:16 macHandle.png
+-rwxrwxr-x  1 miguelangel admin  138 Sep 20 20:16 macTSFrame.png
+drwxr-xr-x 19 miguelangel admin  646 Jan 16 21:06 topiclabel
+-rwxrwxr-x  1 miguelangel admin 2477 Sep 20 20:16 win7.png
+-rwxrwxr-x  1 miguelangel admin  110 Sep 20 20:16 win7Handle.png
+-rwxrwxr-x  1 miguelangel admin  138 Sep 20 20:16 win7TSFrame.png
+-rwxrwxr-x  1 miguelangel admin  108 Sep 20 20:16 winClassicHandle.png
+-rwxrwxr-x  1 miguelangel admin  138 Sep 20 20:16 winClassicTSFrame.png
+-rwxrwxr-x  1 miguelangel admin  110 Sep 20 20:16 winXPBluHandle.png
+-rwxrwxr-x  1 miguelangel admin  138 Sep 20 20:16 winXPBluTSFrame.png
+-rwxrwxr-x  1 miguelangel admin 3482 Sep 20 20:16 winXPBlue.png
+-rwxrwxr-x  1 miguelangel admin  193 Sep 20 20:16 winXPHandle.png
+-rwxrwxr-x  1 miguelangel admin  434 Sep 20 20:16 winXPOlive.png
+-rwxrwxr-x  1 miguelangel admin  227 Sep 20 20:16 winXPTSFrame.png
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.platform_4.3.2.v20140221-1700/images/topiclabel:
+total 68
+-rwxrwxr-x 1 miguelangel admin   54 Sep 20 20:16 arrow.gif
+-rwxrwxr-x 1 miguelangel admin 2205 Sep 20 20:16 ov_teamsup48.gif
+-rwxrwxr-x 1 miguelangel admin 1863 Sep 20 20:16 ov_teamsup48_hov.gif
+-rwxrwxr-x 1 miguelangel admin 1836 Sep 20 20:16 ov_wbbasics48.gif
+-rwxrwxr-x 1 miguelangel admin 1587 Sep 20 20:16 ov_wbbasics48_hov.gif
+-rwxrwxr-x 1 miguelangel admin 1837 Sep 20 20:16 tu_checkout48.gif
+-rwxrwxr-x 1 miguelangel admin 1588 Sep 20 20:16 tu_checkout48_hov.gif
+-rwxrwxr-x 1 miguelangel admin 2205 Sep 20 20:16 tu_merge48.gif
+-rwxrwxr-x 1 miguelangel admin 1863 Sep 20 20:16 tu_merge48_hov.gif
+-rwxrwxr-x 1 miguelangel admin 2271 Sep 20 20:16 wn_eclcommunity48.gif
+-rwxrwxr-x 1 miguelangel admin 1995 Sep 20 20:16 wn_eclcommunity48_hov.gif
+-rwxrwxr-x 1 miguelangel admin 2075 Sep 20 20:16 wn_eclplatform48.gif
+-rwxrwxr-x 1 miguelangel admin 1821 Sep 20 20:16 wn_eclplatform48_hov.gif
+-rwxrwxr-x 1 miguelangel admin 1837 Sep 20 20:16 wn_migrate48.gif
+-rwxrwxr-x 1 miguelangel admin 1588 Sep 20 20:16 wn_migrate48_hov.gif
+-rwxrwxr-x 1 miguelangel admin 2001 Sep 20 20:16 wn_updates48.gif
+-rwxrwxr-x 1 miguelangel admin 1652 Sep 20 20:16 wn_updates48_hov.gif
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.platform_4.3.2.v20140221-1700/intro:
+total 20
+drwxr-xr-x 8 miguelangel admin  272 Jan 16 21:06 css
+-rwxrwxr-x 1 miguelangel admin  859 Sep 20 20:16 overviewExtensionContent.xml
+-rwxrwxr-x 1 miguelangel admin  987 Sep 20 20:16 tutorialsExtensionContent.xml
+-rwxrwxr-x 1 miguelangel admin  625 Sep 20 20:16 whatsnewExtensionContent1.xml
+-rwxrwxr-x 1 miguelangel admin 1275 Sep 20 20:16 whatsnewExtensionContent2.xml
+-rwxrwxr-x 1 miguelangel admin  701 Sep 20 20:16 whatsnewExtensionContent3.xml
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.platform_4.3.2.v20140221-1700/intro/css:
+total 24
+-rwxrwxr-x 1 miguelangel admin  358 Sep 20 20:16 overview.css
+-rwxrwxr-x 1 miguelangel admin  971 Sep 20 20:16 overview.properties
+-rwxrwxr-x 1 miguelangel admin  377 Sep 20 20:16 tutorials.css
+-rwxrwxr-x 1 miguelangel admin  940 Sep 20 20:16 tutorials.properties
+-rwxrwxr-x 1 miguelangel admin 1287 Sep 20 20:16 whatsnew.css
+-rwxrwxr-x 1 miguelangel admin 1210 Sep 20 20:16 whatsnew.properties
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.recommenders.doc_1.0.5.v20130822-0858-b90:
+total 116
+-rw-r--r-- 1 miguelangel admin  6148 Jan 16 22:18 .DS_Store
+drwxr-xr-x 7 miguelangel admin   238 Jan 16 21:06 META-INF
+-rwxrwxr-x 1 miguelangel admin  1433 Sep 20 20:16 about.html
+-rwxrwxr-x 1 miguelangel admin 23670 Sep 20 20:16 changes.html
+-rwxrwxr-x 1 miguelangel admin    63 Sep 20 20:16 index.xml
+-rwxrwxr-x 1 miguelangel admin 25975 Sep 20 20:16 isv.html
+-rwxrwxr-x 1 miguelangel admin  5794 Sep 20 20:16 main.html
+drwxr-xr-x 5 miguelangel admin   170 Jan 16 21:06 media
+-rwxrwxr-x 1 miguelangel admin   400 Sep 20 20:16 plugin.xml
+-rwxrwxr-x 1 miguelangel admin  5935 Sep 20 20:16 toc.xml
+-rwxrwxr-x 1 miguelangel admin 28482 Sep 20 20:16 usr.html
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.recommenders.doc_1.0.5.v20130822-0858-b90/META-INF:
+total 28
+-rwxrwxr-x 1 miguelangel admin 7816 Sep 20 20:16 ECLIPSE_.RSA
+-rwxrwxr-x 1 miguelangel admin 7519 Sep 20 20:16 ECLIPSE_.SF
+-rwxrwxr-x 1 miguelangel admin 7975 Sep 20 20:16 MANIFEST.MF
+-rwxrwxr-x 1 miguelangel admin   57 Sep 20 20:16 eclipse.inf
+drwxr-xr-x 3 miguelangel admin  102 Jan 16 21:06 maven
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.recommenders.doc_1.0.5.v20130822-0858-b90/META-INF/maven:
+total 0
+drwxr-xr-x 3 miguelangel admin 102 Jan 16 21:06 org.eclipse.recommenders
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.recommenders.doc_1.0.5.v20130822-0858-b90/META-INF/maven/org.eclipse.recommenders:
+total 0
+drwxr-xr-x 4 miguelangel admin 136 Jan 16 21:06 org.eclipse.recommenders.doc
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.recommenders.doc_1.0.5.v20130822-0858-b90/META-INF/maven/org.eclipse.recommenders/org.eclipse.recommenders.doc:
+total 12
+-rwxrwxr-x 1 miguelangel admin  146 Sep 20 20:16 pom.properties
+-rwxrwxr-x 1 miguelangel admin 4420 Sep 20 20:16 pom.xml
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.recommenders.doc_1.0.5.v20130822-0858-b90/media:
+total 4
+drwxr-xr-x 5 miguelangel admin  170 Jan 16 21:06 figures
+drwxr-xr-x 7 miguelangel admin  238 Jan 16 21:06 graffle
+-rwxrwxr-x 1 miguelangel admin 3903 Sep 20 20:16 style.css
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.recommenders.doc_1.0.5.v20130822-0858-b90/media/figures:
+total 0
+drwxr-xr-x 6 miguelangel admin 204 Jan 16 21:06 changes
+drwxr-xr-x 4 miguelangel admin 136 Jan 16 21:06 isv
+drwxr-xr-x 6 miguelangel admin 204 Jan 16 21:06 usr
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.recommenders.doc_1.0.5.v20130822-0858-b90/media/figures/changes:
+total 0
+drwxr-xr-x  8 miguelangel admin 272 Jan 16 21:06 v0.1
+drwxr-xr-x  8 miguelangel admin 272 Jan 16 21:06 v0.2
+drwxr-xr-x 16 miguelangel admin 544 Jan 16 21:06 v0.3
+drwxr-xr-x  3 miguelangel admin 102 Jan 16 21:06 v0.5
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.recommenders.doc_1.0.5.v20130822-0858-b90/media/figures/changes/v0.1:
+total 440
+-rwxrwxr-x 1 miguelangel admin  41585 Sep 20 20:16 completion-on-class-body.png
+-rwxrwxr-x 1 miguelangel admin  44979 Sep 20 20:16 completion-on-field.png
+-rwxrwxr-x 1 miguelangel admin  36739 Sep 20 20:16 completion-on-local-from-nested.png
+-rwxrwxr-x 1 miguelangel admin  33035 Sep 20 20:16 completion-on-method-return.png
+-rwxrwxr-x 1 miguelangel admin  31634 Sep 20 20:16 completion-on-this.png
+-rwxrwxr-x 1 miguelangel admin 251778 Sep 20 20:16 eclipse-help-user.png
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.recommenders.doc_1.0.5.v20130822-0858-b90/media/figures/changes/v0.2:
+total 284
+-rwxrwxr-x 1 miguelangel admin 41380 Sep 20 20:16 chain-completion-on-IStatusLineManager.png
+-rwxrwxr-x 1 miguelangel admin 33912 Sep 20 20:16 chain-completion-on-method-return.png
+-rwxrwxr-x 1 miguelangel admin 33849 Sep 20 20:16 chain-completion-on-platformui.png
+-rwxrwxr-x 1 miguelangel admin 42111 Sep 20 20:16 chain-completion-with-cast.png
+-rwxrwxr-x 1 miguelangel admin 46681 Sep 20 20:16 template-completion-on-button-declaration.png
+-rwxrwxr-x 1 miguelangel admin 74748 Sep 20 20:16 template-completion-on-button-with-observed-calls.png
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.recommenders.doc_1.0.5.v20130822-0858-b90/media/figures/changes/v0.3:
+total 768
+-rwxrwxr-x 1 miguelangel admin 159472 Sep 20 20:16 call-completion-models.png
+-rwxrwxr-x 1 miguelangel admin  51804 Sep 20 20:16 extdoc-bookmarks-provider.png
+-rwxrwxr-x 1 miguelangel admin  45592 Sep 20 20:16 extdoc-calls-provider.png
+-rwxrwxr-x 1 miguelangel admin  41285 Sep 20 20:16 extdoc-comments.png
+-rwxrwxr-x 1 miguelangel admin  48172 Sep 20 20:16 extdoc-examples-provider.png
+-rwxrwxr-x 1 miguelangel admin  54836 Sep 20 20:16 extdoc-hover-large.png
+-rwxrwxr-x 1 miguelangel admin  68202 Sep 20 20:16 extdoc-hover-window.png
+-rwxrwxr-x 1 miguelangel admin  59595 Sep 20 20:16 extdoc-patterns-provider.png
+-rwxrwxr-x 1 miguelangel admin  74768 Sep 20 20:16 extdoc-subclassing-directives-provider.png
+-rwxrwxr-x 1 miguelangel admin  45991 Sep 20 20:16 extdoc-view.png
+-rwxrwxr-x 1 miguelangel admin  27897 Sep 20 20:16 subwords-completion-on-method-calls.png
+-rwxrwxr-x 1 miguelangel admin  24422 Sep 20 20:16 subwords-completion-on-method-overrides.png
+-rwxrwxr-x 1 miguelangel admin  27246 Sep 20 20:16 subwords-completion-on-variables.png
+-rwxrwxr-x 1 miguelangel admin  31002 Sep 20 20:16 templates-completion-grouped-proposal-order.png
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.recommenders.doc_1.0.5.v20130822-0858-b90/media/figures/changes/v0.5:
+total 56
+-rwxrwxr-x 1 miguelangel admin 53361 Sep 20 20:16 subwords-assignment.png
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.recommenders.doc_1.0.5.v20130822-0858-b90/media/figures/isv:
+total 0
+drwxr-xr-x 4 miguelangel admin 136 Jan 16 21:06 chain-completion
+drwxr-xr-x 7 miguelangel admin 238 Jan 16 21:06 extdoc
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.recommenders.doc_1.0.5.v20130822-0858-b90/media/figures/isv/chain-completion:
+total 108
+-rwxrwxr-x 1 miguelangel admin 83542 Sep 20 20:16 design-overview.png
+-rwxrwxr-x 1 miguelangel admin 20711 Sep 20 20:16 on-local.png
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.recommenders.doc_1.0.5.v20130822-0858-b90/media/figures/isv/extdoc:
+total 280
+-rwxrwxr-x 1 miguelangel admin 147957 Sep 20 20:16 design.png
+-rwxrwxr-x 1 miguelangel admin  57330 Sep 20 20:16 exampleProvider.png
+-rwxrwxr-x 1 miguelangel admin    795 Sep 20 20:16 exampleProvider.txt
+-rwxrwxr-x 1 miguelangel admin  32339 Sep 20 20:16 layout.png
+-rwxrwxr-x 1 miguelangel admin  40571 Sep 20 20:16 scheduling.png
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.recommenders.doc_1.0.5.v20130822-0858-b90/media/figures/usr:
+total 0
+drwxr-xr-x 17 miguelangel admin 578 Jan 16 21:06 completion
+drwxr-xr-x  8 miguelangel admin 272 Jan 16 21:06 extdoc
+drwxr-xr-x  3 miguelangel admin 102 Jan 16 21:06 general
+drwxr-xr-x  3 miguelangel admin 102 Jan 16 21:06 intro
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.recommenders.doc_1.0.5.v20130822-0858-b90/media/figures/usr/completion:
+total 1312
+-rwxrwxr-x 1 miguelangel admin 535808 Sep 20 20:16 api-jbutton.png
+-rwxrwxr-x 1 miguelangel admin  97808 Sep 20 20:16 calls-preferences.png
+-rwxrwxr-x 1 miguelangel admin  30360 Sep 20 20:16 calls-text.png
+-rwxrwxr-x 1 miguelangel admin  29346 Sep 20 20:16 chain-istatuslinemanager.png
+-rwxrwxr-x 1 miguelangel admin  57239 Sep 20 20:16 chain-preferences.png
+-rwxrwxr-x 1 miguelangel admin  39424 Sep 20 20:16 overrides-dialog.png
+-rwxrwxr-x 1 miguelangel admin 127821 Sep 20 20:16 preferences.png
+-rwxrwxr-x 1 miguelangel admin  48665 Sep 20 20:16 subwords-ast01.png
+-rwxrwxr-x 1 miguelangel admin  35301 Sep 20 20:16 subwords-ast02.png
+-rwxrwxr-x 1 miguelangel admin  46339 Sep 20 20:16 subwords-compilationunit.png
+-rwxrwxr-x 1 miguelangel admin  26857 Sep 20 20:16 subwords-ijavaelement.png
+-rwxrwxr-x 1 miguelangel admin  65408 Sep 20 20:16 subwords-preferences.png
+-rwxrwxr-x 1 miguelangel admin  74411 Sep 20 20:16 templates-astparser.png
+-rwxrwxr-x 1 miguelangel admin  74180 Sep 20 20:16 templates-tableviewer01.png
+-rwxrwxr-x 1 miguelangel admin  27866 Sep 20 20:16 templates-tableviewer02.png
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.recommenders.doc_1.0.5.v20130822-0858-b90/media/figures/usr/extdoc:
+total 720
+-rwxrwxr-x 1 miguelangel admin  73313 Sep 20 20:16 class-override-patterns.png
+-rwxrwxr-x 1 miguelangel admin 101506 Sep 20 20:16 class-overrides.png
+-rwxrwxr-x 1 miguelangel admin 248858 Sep 20 20:16 hooks.png
+-rwxrwxr-x 1 miguelangel admin  60307 Sep 20 20:16 method-self.png
+-rwxrwxr-x 1 miguelangel admin 101086 Sep 20 20:16 snippets.png
+-rwxrwxr-x 1 miguelangel admin 146720 Sep 20 20:16 view01.png
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.recommenders.doc_1.0.5.v20130822-0858-b90/media/figures/usr/general:
+total 44
+-rwxrwxr-x 1 miguelangel admin 41683 Sep 20 20:16 preferences.png
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.recommenders.doc_1.0.5.v20130822-0858-b90/media/figures/usr/intro:
+total 112
+-rwxrwxr-x 1 miguelangel admin 113658 Sep 20 20:16 ide20.png
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.recommenders.doc_1.0.5.v20130822-0858-b90/media/graffle:
+total 572
+-rwxrwxr-x 1 miguelangel admin 108002 Sep 20 20:16 chain-completion.graffle
+-rwxrwxr-x 1 miguelangel admin 122394 Sep 20 20:16 extdoc.graffle
+-rwxrwxr-x 1 miguelangel admin 209146 Sep 20 20:16 modelstore.graffle
+-rwxrwxr-x 1 miguelangel admin  37422 Sep 20 20:16 udc-draft (Autosaved).graffle
+-rwxrwxr-x 1 miguelangel admin  97106 Sep 20 20:16 udc-draft.graffle
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254:
+total 140
+-rw-r--r-- 1 miguelangel admin  6148 Jan 16 22:18 .DS_Store
+-rwxrwxr-x 1 miguelangel admin   367 Sep 20 20:16 .api_description
+-rwxrwxr-x 1 miguelangel admin  1020 Sep 20 20:16 .options
+drwxr-xr-x 5 miguelangel admin   170 Jan 16 21:06 META-INF
+-rwxrwxr-x 1 miguelangel admin  1432 Sep 20 20:16 about.html
+drwxr-xr-x 4 miguelangel admin   136 Jan 16 21:06 icons
+-rwxrwxr-x 1 miguelangel admin 13222 Sep 20 20:16 introContent.xml
+-rwxrwxr-x 1 miguelangel admin   852 Sep 20 20:16 plugin.properties
+-rwxrwxr-x 1 miguelangel admin 12559 Sep 20 20:16 plugin.xml
+drwxr-xr-x 6 miguelangel admin   204 Jan 16 21:06 themes
+-rwxrwxr-x 1 miguelangel admin 83670 Sep 20 20:17 universal.jar
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/META-INF:
+total 92
+-rwxrwxr-x 1 miguelangel admin  7816 Sep 20 20:16 ECLIPSE_.RSA
+-rwxrwxr-x 1 miguelangel admin 39748 Sep 20 20:16 ECLIPSE_.SF
+-rwxrwxr-x 1 miguelangel admin 41079 Sep 20 20:16 MANIFEST.MF
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/icons:
+total 4
+drwxr-xr-x 4 miguelangel admin 136 Jan 16 21:06 full
+-rwxrwxr-x 1 miguelangel admin 254 Sep 20 20:16 welcome16.gif
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/icons/full:
+total 0
+drwxr-xr-x 3 miguelangel admin 102 Jan 16 21:06 elcl16
+drwxr-xr-x 8 miguelangel admin 272 Jan 16 21:06 obj16
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/icons/full/elcl16:
+total 4
+-rwxrwxr-x 1 miguelangel admin 355 Sep 20 20:16 configure.gif
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/icons/full/obj16:
+total 24
+-rwxrwxr-x 1 miguelangel admin  186 Sep 20 20:16 extension_obj.gif
+-rwxrwxr-x 1 miguelangel admin  358 Sep 20 20:16 icallout_obj.gif
+-rwxrwxr-x 1 miguelangel admin  202 Sep 20 20:16 ihigh_obj.gif
+-rwxrwxr-x 1 miguelangel admin  307 Sep 20 20:16 ilow_obj.gif
+-rwxrwxr-x 1 miguelangel admin 1051 Sep 20 20:16 image_obj.gif
+-rwxrwxr-x 1 miguelangel admin  209 Sep 20 20:16 inew_obj.gif
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes:
+total 0
+drwxr-xr-x 6 miguelangel admin 204 Jan 16 21:06 circles
+drwxr-xr-x 6 miguelangel admin 204 Jan 16 21:06 purpleMesh
+drwxr-xr-x 4 miguelangel admin 136 Jan 16 21:06 shared
+drwxr-xr-x 6 miguelangel admin 204 Jan 16 21:06 slate
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/circles:
+total 16
+drwxr-xr-x  7 miguelangel admin   238 Jan 16 21:06 graphics
+drwxr-xr-x 16 miguelangel admin   544 Jan 16 21:06 html
+-rwxrwxr-x  1 miguelangel admin 13921 Sep 20 20:17 preview.png
+drwxr-xr-x 11 miguelangel admin   374 Jan 16 21:06 swt
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/circles/graphics:
+total 0
+drwxr-xr-x  9 miguelangel admin 306 Jan 16 21:06 contentpage
+drwxr-xr-x  4 miguelangel admin 136 Jan 16 21:06 icons
+drwxr-xr-x  9 miguelangel admin 306 Jan 16 21:06 launchbar
+drwxr-xr-x  3 miguelangel admin 102 Jan 16 21:06 rootpage
+drwxr-xr-x 18 miguelangel admin 612 Jan 16 21:06 standby
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/circles/graphics/contentpage:
+total 112
+-rwxrwxr-x 1 miguelangel admin 15497 Sep 20 20:16 fs_banner.jpg
+-rwxrwxr-x 1 miguelangel admin 14299 Sep 20 20:16 mi_banner.jpg
+-rwxrwxr-x 1 miguelangel admin 14796 Sep 20 20:16 ov_banner.jpg
+-rwxrwxr-x 1 miguelangel admin 15648 Sep 20 20:16 sa_banner.jpg
+-rwxrwxr-x 1 miguelangel admin 15244 Sep 20 20:16 tu_banner.jpg
+-rwxrwxr-x 1 miguelangel admin 14693 Sep 20 20:16 wn_banner.jpg
+-rwxrwxr-x 1 miguelangel admin 14386 Sep 20 20:16 wr_banner.jpg
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/circles/graphics/icons:
+total 0
+drwxr-xr-x 73 miguelangel admin 2482 Jan 16 21:06 ctool
+drwxr-xr-x  4 miguelangel admin  136 Jan 16 21:06 obj48
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/circles/graphics/icons/ctool:
+total 396
+-rwxrwxr-x 1 miguelangel admin    54 Sep 20 20:16 arrow_rtl.gif
+-rwxrwxr-x 1 miguelangel admin  1188 Sep 20 20:16 content_nav_bar.gif
+-rwxrwxr-x 1 miguelangel admin    68 Sep 20 20:16 cpt_bottomhov.gif
+-rwxrwxr-x 1 miguelangel admin    54 Sep 20 20:16 cpt_midhov.gif
+-rwxrwxr-x 1 miguelangel admin  7342 Sep 20 20:16 firststeps.gif
+-rwxrwxr-x 1 miguelangel admin 10857 Sep 20 20:16 firststeps.png
+-rwxrwxr-x 1 miguelangel admin  7549 Sep 20 20:16 firststeps_tophov.gif
+-rwxrwxr-x 1 miguelangel admin  2166 Sep 20 20:17 fs_nav.png
+-rwxrwxr-x 1 miguelangel admin  1614 Sep 20 20:17 fs_nav_32.gif
+-rwxrwxr-x 1 miguelangel admin  4229 Sep 20 20:17 fs_nav_64.gif
+-rwxrwxr-x 1 miguelangel admin  2319 Sep 20 20:17 fs_nav_hover.gif
+-rwxrwxr-x 1 miguelangel admin  1579 Sep 20 20:17 mi_nav.png
+-rwxrwxr-x 1 miguelangel admin  1445 Sep 20 20:17 mi_nav_32.gif
+-rwxrwxr-x 1 miguelangel admin  3410 Sep 20 20:17 mi_nav_64.gif
+-rwxrwxr-x 1 miguelangel admin  2289 Sep 20 20:17 mi_nav_hover.gif
+-rwxrwxr-x 1 miguelangel admin  7107 Sep 20 20:17 migrate.gif
+-rwxrwxr-x 1 miguelangel admin  6439 Sep 20 20:17 migrate.png
+-rwxrwxr-x 1 miguelangel admin  7939 Sep 20 20:17 migrate_tophov.gif
+-rwxrwxr-x 1 miguelangel admin   103 Sep 20 20:17 nav_midhov.gif
+-rwxrwxr-x 1 miguelangel admin   118 Sep 20 20:17 nav_rightedgehov.gif
+-rwxrwxr-x 1 miguelangel admin  2046 Sep 20 20:17 ov_nav.png
+-rwxrwxr-x 1 miguelangel admin  1555 Sep 20 20:17 ov_nav_32.gif
+-rwxrwxr-x 1 miguelangel admin  3395 Sep 20 20:17 ov_nav_64.gif
+-rwxrwxr-x 1 miguelangel admin  2197 Sep 20 20:17 ov_nav_hover.gif
+-rwxrwxr-x 1 miguelangel admin   155 Sep 20 20:17 ov_nav_midhov.gif
+-rwxrwxr-x 1 miguelangel admin   174 Sep 20 20:17 ov_nav_rightedgehov.gif
+-rwxrwxr-x 1 miguelangel admin  9302 Sep 20 20:17 overview.gif
+-rwxrwxr-x 1 miguelangel admin  7720 Sep 20 20:17 overview.png
+-rwxrwxr-x 1 miguelangel admin    81 Sep 20 20:17 overview_bottomhov.gif
+-rwxrwxr-x 1 miguelangel admin    64 Sep 20 20:17 overview_midhov.gif
+-rwxrwxr-x 1 miguelangel admin  6597 Sep 20 20:17 overview_tophov.gif
+-rwxrwxr-x 1 miguelangel admin    81 Sep 20 20:17 root_bottomhov.gif
+-rwxrwxr-x 1 miguelangel admin    64 Sep 20 20:17 root_midhov.gif
+-rwxrwxr-x 1 miguelangel admin    60 Sep 20 20:17 root_midhov2.gif
+-rwxrwxr-x 1 miguelangel admin  2046 Sep 20 20:17 sa_nav.png
+-rwxrwxr-x 1 miguelangel admin  1556 Sep 20 20:17 sa_nav_32.gif
+-rwxrwxr-x 1 miguelangel admin  3419 Sep 20 20:17 sa_nav_64.gif
+-rwxrwxr-x 1 miguelangel admin  2266 Sep 20 20:17 sa_nav_hover.gif
+-rwxrwxr-x 1 miguelangel admin  2402 Sep 20 20:17 sa_onesample48.gif
+-rwxrwxr-x 1 miguelangel admin  7159 Sep 20 20:17 samples.gif
+-rwxrwxr-x 1 miguelangel admin  8010 Sep 20 20:17 samples.png
+-rwxrwxr-x 1 miguelangel admin  7491 Sep 20 20:17 samples_tophov.gif
+-rwxrwxr-x 1 miguelangel admin  1733 Sep 20 20:17 tu_nav.png
+-rwxrwxr-x 1 miguelangel admin  1507 Sep 20 20:17 tu_nav_32.gif
+-rwxrwxr-x 1 miguelangel admin  3389 Sep 20 20:17 tu_nav_64.gif
+-rwxrwxr-x 1 miguelangel admin  2318 Sep 20 20:17 tu_nav_hover.gif
+-rwxrwxr-x 1 miguelangel admin  7393 Sep 20 20:17 tutorials.gif
+-rwxrwxr-x 1 miguelangel admin  6908 Sep 20 20:17 tutorials.png
+-rwxrwxr-x 1 miguelangel admin  7917 Sep 20 20:17 tutorials_tophov.gif
+-rwxrwxr-x 1 miguelangel admin  1205 Sep 20 20:17 wb_nav.png
+-rwxrwxr-x 1 miguelangel admin  1716 Sep 20 20:17 wb_nav_32.gif
+-rwxrwxr-x 1 miguelangel admin  2382 Sep 20 20:17 wb_nav_hover.gif
+-rwxrwxr-x 1 miguelangel admin  7828 Sep 20 20:17 webresources.gif
+-rwxrwxr-x 1 miguelangel admin  8350 Sep 20 20:17 webresources.png
+-rwxrwxr-x 1 miguelangel admin  7870 Sep 20 20:17 webresources_tophov.gif
+-rwxrwxr-x 1 miguelangel admin  6183 Sep 20 20:17 whatsnew.gif
+-rwxrwxr-x 1 miguelangel admin  6936 Sep 20 20:17 whatsnew.png
+-rwxrwxr-x 1 miguelangel admin  7420 Sep 20 20:17 whatsnew_tophov.gif
+-rwxrwxr-x 1 miguelangel admin  1534 Sep 20 20:17 wn_nav.png
+-rwxrwxr-x 1 miguelangel admin  1360 Sep 20 20:17 wn_nav_32.gif
+-rwxrwxr-x 1 miguelangel admin  3569 Sep 20 20:17 wn_nav_64.gif
+-rwxrwxr-x 1 miguelangel admin  2286 Sep 20 20:17 wn_nav_hover.gif
+-rwxrwxr-x 1 miguelangel admin  7412 Sep 20 20:17 workbench.gif
+-rwxrwxr-x 1 miguelangel admin  5580 Sep 20 20:17 workbench.png
+-rwxrwxr-x 1 miguelangel admin    60 Sep 20 20:17 workbench_bottomhov.gif
+-rwxrwxr-x 1 miguelangel admin   240 Sep 20 20:17 workbench_midhov.gif
+-rwxrwxr-x 1 miguelangel admin  7880 Sep 20 20:17 workbench_tophov.gif
+-rwxrwxr-x 1 miguelangel admin  1805 Sep 20 20:17 wr_nav.png
+-rwxrwxr-x 1 miguelangel admin  1503 Sep 20 20:17 wr_nav_32.gif
+-rwxrwxr-x 1 miguelangel admin  3883 Sep 20 20:17 wr_nav_64.gif
+-rwxrwxr-x 1 miguelangel admin  2336 Sep 20 20:17 wr_nav_hover.gif
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/circles/graphics/icons/obj48:
+total 8
+-rwxrwxr-x 1 miguelangel admin 1814 Sep 20 20:17 new_obj.gif
+-rwxrwxr-x 1 miguelangel admin 2045 Sep 20 20:17 newhov_obj.gif
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/circles/graphics/launchbar:
+total 28
+-rwxrwxr-x 1 miguelangel admin 814 Sep 20 20:17 firststeps16.png
+-rwxrwxr-x 1 miguelangel admin 687 Sep 20 20:17 migrate16.png
+-rwxrwxr-x 1 miguelangel admin 757 Sep 20 20:17 overview16.png
+-rwxrwxr-x 1 miguelangel admin 736 Sep 20 20:17 samples16.png
+-rwxrwxr-x 1 miguelangel admin 607 Sep 20 20:17 tutorials16.png
+-rwxrwxr-x 1 miguelangel admin 635 Sep 20 20:17 webresources16.png
+-rwxrwxr-x 1 miguelangel admin 607 Sep 20 20:17 whatsnew16.png
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/circles/graphics/rootpage:
+total 100
+-rwxrwxr-x 1 miguelangel admin 98490 Sep 20 20:17 welcomebckgrd.jpg
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/circles/graphics/standby:
+total 64
+-rwxrwxr-x 1 miguelangel admin 1809 Sep 20 20:17 fs_standby.gif
+-rwxrwxr-x 1 miguelangel admin 1975 Sep 20 20:17 fs_standbyhov.gif
+-rwxrwxr-x 1 miguelangel admin 1619 Sep 20 20:17 mi_standby.gif
+-rwxrwxr-x 1 miguelangel admin 1953 Sep 20 20:17 mi_standbyhov.gif
+-rwxrwxr-x 1 miguelangel admin 1739 Sep 20 20:17 ov_standby.gif
+-rwxrwxr-x 1 miguelangel admin 1917 Sep 20 20:17 ov_standbyhov.gif
+-rwxrwxr-x 1 miguelangel admin 1719 Sep 20 20:17 sa_standby.gif
+-rwxrwxr-x 1 miguelangel admin 1975 Sep 20 20:17 sa_standbyhov.gif
+-rwxrwxr-x 1 miguelangel admin 1677 Sep 20 20:17 tu_standby.gif
+-rwxrwxr-x 1 miguelangel admin 1883 Sep 20 20:17 tu_standbyhov.gif
+-rwxrwxr-x 1 miguelangel admin 1466 Sep 20 20:17 wb_standby.gif
+-rwxrwxr-x 1 miguelangel admin 1889 Sep 20 20:17 wb_standbyhov.gif
+-rwxrwxr-x 1 miguelangel admin 1540 Sep 20 20:17 wn_standby.gif
+-rwxrwxr-x 1 miguelangel admin 1902 Sep 20 20:17 wn_standbyhov.gif
+-rwxrwxr-x 1 miguelangel admin 1692 Sep 20 20:17 wr_standby.gif
+-rwxrwxr-x 1 miguelangel admin 1988 Sep 20 20:17 wr_standbyhov.gif
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/circles/html:
+total 80
+-rwxrwxr-x 1 miguelangel admin  1427 Sep 20 20:17 firststeps.css
+-rwxrwxr-x 1 miguelangel admin  2039 Sep 20 20:17 font-absolute.css
+-rwxrwxr-x 1 miguelangel admin  2290 Sep 20 20:17 font-relative.css
+-rwxrwxr-x 1 miguelangel admin   650 Sep 20 20:17 ltr.css
+-rwxrwxr-x 1 miguelangel admin  1398 Sep 20 20:17 migrate.css
+-rwxrwxr-x 1 miguelangel admin  1401 Sep 20 20:17 overview.css
+-rwxrwxr-x 1 miguelangel admin  9491 Sep 20 20:17 root.css
+-rwxrwxr-x 1 miguelangel admin  1917 Sep 20 20:17 rtl.css
+-rwxrwxr-x 1 miguelangel admin  1399 Sep 20 20:17 samples.css
+-rwxrwxr-x 1 miguelangel admin 14226 Sep 20 20:17 shared.css
+-rwxrwxr-x 1 miguelangel admin  4266 Sep 20 20:17 standby.css
+-rwxrwxr-x 1 miguelangel admin  1425 Sep 20 20:17 tutorials.css
+-rwxrwxr-x 1 miguelangel admin  1463 Sep 20 20:17 webresources.css
+-rwxrwxr-x 1 miguelangel admin  1644 Sep 20 20:17 whatsnew.css
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/circles/swt:
+total 36
+-rwxrwxr-x 1 miguelangel admin  923 Sep 20 20:17 firststeps.properties
+-rwxrwxr-x 1 miguelangel admin  896 Sep 20 20:17 migrate.properties
+-rwxrwxr-x 1 miguelangel admin  861 Sep 20 20:17 overview.properties
+-rwxrwxr-x 1 miguelangel admin 3618 Sep 20 20:17 root.properties
+-rwxrwxr-x 1 miguelangel admin  982 Sep 20 20:17 samples.properties
+-rwxrwxr-x 1 miguelangel admin 1451 Sep 20 20:17 standby.properties
+-rwxrwxr-x 1 miguelangel admin  960 Sep 20 20:17 tutorials.properties
+-rwxrwxr-x 1 miguelangel admin  942 Sep 20 20:17 webresources.properties
+-rwxrwxr-x 1 miguelangel admin 1052 Sep 20 20:17 whatsnew.properties
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/purpleMesh:
+total 16
+drwxr-xr-x  7 miguelangel admin   238 Jan 16 21:06 graphics
+drwxr-xr-x 16 miguelangel admin   544 Jan 16 21:06 html
+-rwxrwxr-x  1 miguelangel admin 13997 Sep 20 20:17 preview.png
+drwxr-xr-x 11 miguelangel admin   374 Jan 16 21:06 swt
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/purpleMesh/graphics:
+total 0
+drwxr-xr-x 15 miguelangel admin 510 Jan 16 21:06 contentpage
+drwxr-xr-x  6 miguelangel admin 204 Jan 16 21:06 icons
+drwxr-xr-x  9 miguelangel admin 306 Jan 16 21:06 launchbar
+drwxr-xr-x  5 miguelangel admin 170 Jan 16 21:06 root
+drwxr-xr-x  3 miguelangel admin 102 Jan 16 21:06 swt
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/purpleMesh/graphics/contentpage:
+total 364
+-rwxrwxr-x 1 miguelangel admin 132168 Sep 20 20:17 background.jpg
+-rwxrwxr-x 1 miguelangel admin   8450 Sep 20 20:17 backgroundcurve.gif
+-rwxrwxr-x 1 miguelangel admin  40349 Sep 20 20:17 firsteps_wtr.jpg
+-rwxrwxr-x 1 miguelangel admin  40292 Sep 20 20:17 migrate_wtr.jpg
+-rwxrwxr-x 1 miguelangel admin  34130 Sep 20 20:17 overview_wtr.jpg
+-rwxrwxr-x 1 miguelangel admin   7567 Sep 20 20:17 samples_wtr.jpg
+-rwxrwxr-x 1 miguelangel admin     80 Sep 20 20:17 section1.gif
+-rwxrwxr-x 1 miguelangel admin     79 Sep 20 20:17 section2.gif
+-rwxrwxr-x 1 miguelangel admin     79 Sep 20 20:17 section3.gif
+-rwxrwxr-x 1 miguelangel admin     79 Sep 20 20:17 section4.gif
+-rwxrwxr-x 1 miguelangel admin   9817 Sep 20 20:17 tutorials_wtr.jpg
+-rwxrwxr-x 1 miguelangel admin  34421 Sep 20 20:17 webrsrc_wtr.jpg
+-rwxrwxr-x 1 miguelangel admin  32446 Sep 20 20:17 whatsnew_wtr.jpg
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/purpleMesh/graphics/icons:
+total 0
+drwxr-xr-x 35 miguelangel admin 1190 Jan 16 21:06 ctool
+drwxr-xr-x  4 miguelangel admin  136 Jan 16 21:06 dtool
+drwxr-xr-x 27 miguelangel admin  918 Jan 16 21:06 etool
+drwxr-xr-x  4 miguelangel admin  136 Jan 16 21:06 obj48
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/purpleMesh/graphics/icons/ctool:
+total 144
+-rwxrwxr-x 1 miguelangel admin 1264 Sep 20 20:17 back.gif
+-rwxrwxr-x 1 miguelangel admin  814 Sep 20 20:17 firsteps16.png
+-rwxrwxr-x 1 miguelangel admin 2897 Sep 20 20:17 firsteps48.gif
+-rwxrwxr-x 1 miguelangel admin 2993 Sep 20 20:17 firsteps48sel.gif
+-rwxrwxr-x 1 miguelangel admin 4981 Sep 20 20:17 firsteps72.gif
+-rwxrwxr-x 1 miguelangel admin 1261 Sep 20 20:17 forward.gif
+-rwxrwxr-x 1 miguelangel admin 1393 Sep 20 20:17 home.gif
+-rwxrwxr-x 1 miguelangel admin  687 Sep 20 20:17 migrate16.png
+-rwxrwxr-x 1 miguelangel admin 1931 Sep 20 20:17 migrate48.gif
+-rwxrwxr-x 1 miguelangel admin 2050 Sep 20 20:17 migrate48sel.gif
+-rwxrwxr-x 1 miguelangel admin 2973 Sep 20 20:17 migrate72.gif
+-rwxrwxr-x 1 miguelangel admin  757 Sep 20 20:17 overview16.png
+-rwxrwxr-x 1 miguelangel admin 2297 Sep 20 20:17 overview48.gif
+-rwxrwxr-x 1 miguelangel admin 2407 Sep 20 20:17 overview48sel.gif
+-rwxrwxr-x 1 miguelangel admin 3678 Sep 20 20:17 overview72.gif
+-rwxrwxr-x 1 miguelangel admin  736 Sep 20 20:17 samples16.png
+-rwxrwxr-x 1 miguelangel admin 2274 Sep 20 20:17 samples48.gif
+-rwxrwxr-x 1 miguelangel admin 2392 Sep 20 20:17 samples48sel.gif
+-rwxrwxr-x 1 miguelangel admin 3717 Sep 20 20:17 samples72.gif
+-rwxrwxr-x 1 miguelangel admin  607 Sep 20 20:17 tutorials16.png
+-rwxrwxr-x 1 miguelangel admin 2503 Sep 20 20:17 tutorials48.gif
+-rwxrwxr-x 1 miguelangel admin 2610 Sep 20 20:17 tutorials48sel.gif
+-rwxrwxr-x 1 miguelangel admin 4220 Sep 20 20:17 tutorials72.gif
+-rwxrwxr-x 1 miguelangel admin  513 Sep 20 20:17 wb16.png
+-rwxrwxr-x 1 miguelangel admin 1754 Sep 20 20:17 wb48.gif
+-rwxrwxr-x 1 miguelangel admin  635 Sep 20 20:17 webrsrc16.png
+-rwxrwxr-x 1 miguelangel admin 2591 Sep 20 20:17 webrsrc48.gif
+-rwxrwxr-x 1 miguelangel admin 2719 Sep 20 20:17 webrsrc48sel.gif
+-rwxrwxr-x 1 miguelangel admin 4379 Sep 20 20:17 webrsrc72.gif
+-rwxrwxr-x 1 miguelangel admin  607 Sep 20 20:17 whatsnew16.png
+-rwxrwxr-x 1 miguelangel admin 2135 Sep 20 20:17 whatsnew48.gif
+-rwxrwxr-x 1 miguelangel admin 2252 Sep 20 20:17 whatsnew48sel.gif
+-rwxrwxr-x 1 miguelangel admin 3355 Sep 20 20:17 whatsnew72.gif
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/purpleMesh/graphics/icons/dtool:
+total 8
+-rwxrwxr-x 1 miguelangel admin 827 Sep 20 20:17 back.gif
+-rwxrwxr-x 1 miguelangel admin 822 Sep 20 20:17 forward.gif
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/purpleMesh/graphics/icons/etool:
+total 104
+-rwxrwxr-x 1 miguelangel admin  827 Sep 20 20:17 back.gif
+-rwxrwxr-x 1 miguelangel admin 2761 Sep 20 20:17 firsteps48.gif
+-rwxrwxr-x 1 miguelangel admin 3129 Sep 20 20:17 firsteps48sel.gif
+-rwxrwxr-x 1 miguelangel admin 4755 Sep 20 20:17 firsteps72.gif
+-rwxrwxr-x 1 miguelangel admin  822 Sep 20 20:17 forward.gif
+-rwxrwxr-x 1 miguelangel admin 1400 Sep 20 20:17 home.gif
+-rwxrwxr-x 1 miguelangel admin 1718 Sep 20 20:17 migrate48.gif
+-rwxrwxr-x 1 miguelangel admin 2161 Sep 20 20:17 migrate48sel.gif
+-rwxrwxr-x 1 miguelangel admin 2669 Sep 20 20:17 migrate72.gif
+-rwxrwxr-x 1 miguelangel admin 2108 Sep 20 20:17 overview48.gif
+-rwxrwxr-x 1 miguelangel admin 2550 Sep 20 20:17 overview48sel.gif
+-rwxrwxr-x 1 miguelangel admin 3478 Sep 20 20:17 overview72.gif
+-rwxrwxr-x 1 miguelangel admin 2131 Sep 20 20:17 samples48.gif
+-rwxrwxr-x 1 miguelangel admin 2569 Sep 20 20:17 samples48sel.gif
+-rwxrwxr-x 1 miguelangel admin 3352 Sep 20 20:17 samples72.gif
+-rwxrwxr-x 1 miguelangel admin 2332 Sep 20 20:17 tutorials48.gif
+-rwxrwxr-x 1 miguelangel admin 2701 Sep 20 20:17 tutorials48sel.gif
+-rwxrwxr-x 1 miguelangel admin 3930 Sep 20 20:17 tutorials72.gif
+-rwxrwxr-x 1 miguelangel admin 1511 Sep 20 20:17 wb48.gif
+-rwxrwxr-x 1 miguelangel admin 2395 Sep 20 20:17 webrsrc48.gif
+-rwxrwxr-x 1 miguelangel admin 2822 Sep 20 20:17 webrsrc48sel.gif
+-rwxrwxr-x 1 miguelangel admin 4045 Sep 20 20:17 webrsrc72.gif
+-rwxrwxr-x 1 miguelangel admin 1899 Sep 20 20:17 whatsnew48.gif
+-rwxrwxr-x 1 miguelangel admin 2345 Sep 20 20:17 whatsnew48sel.gif
+-rwxrwxr-x 1 miguelangel admin 2966 Sep 20 20:17 whatsnew72.gif
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/purpleMesh/graphics/icons/obj48:
+total 8
+-rwxrwxr-x 1 miguelangel admin 1814 Sep 20 20:17 new_obj.gif
+-rwxrwxr-x 1 miguelangel admin 2045 Sep 20 20:17 newhov_obj.gif
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/purpleMesh/graphics/launchbar:
+total 28
+-rwxrwxr-x 1 miguelangel admin 814 Sep 20 20:17 firststeps16.png
+-rwxrwxr-x 1 miguelangel admin 687 Sep 20 20:17 migrate16.png
+-rwxrwxr-x 1 miguelangel admin 599 Sep 20 20:17 overview.gif
+-rwxrwxr-x 1 miguelangel admin 617 Sep 20 20:17 samples.gif
+-rwxrwxr-x 1 miguelangel admin 349 Sep 20 20:17 tutorials.gif
+-rwxrwxr-x 1 miguelangel admin 635 Sep 20 20:17 webresources16.png
+-rwxrwxr-x 1 miguelangel admin 552 Sep 20 20:17 whatsnew.gif
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/purpleMesh/graphics/root:
+total 244
+-rwxrwxr-x 1 miguelangel admin 235002 Sep 20 20:17 background.jpg
+-rwxrwxr-x 1 miguelangel admin   4256 Sep 20 20:17 brandmark.gif
+-rwxrwxr-x 1 miguelangel admin    435 Sep 20 20:17 dots.gif
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/purpleMesh/graphics/swt:
+total 8
+-rwxrwxr-x 1 miguelangel admin 5600 Sep 20 20:17 form_banner.gif
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/purpleMesh/html:
+total 72
+-rwxrwxr-x 1 miguelangel admin   903 Sep 20 20:17 firststeps.css
+-rwxrwxr-x 1 miguelangel admin  1716 Sep 20 20:17 font-absolute.css
+-rwxrwxr-x 1 miguelangel admin  1729 Sep 20 20:17 font-relative.css
+-rwxrwxr-x 1 miguelangel admin   650 Sep 20 20:17 ltr.css
+-rwxrwxr-x 1 miguelangel admin   889 Sep 20 20:17 migrate.css
+-rwxrwxr-x 1 miguelangel admin   895 Sep 20 20:17 overview.css
+-rwxrwxr-x 1 miguelangel admin  7739 Sep 20 20:17 root.css
+-rwxrwxr-x 1 miguelangel admin  2243 Sep 20 20:17 rtl.css
+-rwxrwxr-x 1 miguelangel admin   888 Sep 20 20:17 samples.css
+-rwxrwxr-x 1 miguelangel admin 10270 Sep 20 20:17 shared.css
+-rwxrwxr-x 1 miguelangel admin  4580 Sep 20 20:17 standby.css
+-rwxrwxr-x 1 miguelangel admin   901 Sep 20 20:17 tutorials.css
+-rwxrwxr-x 1 miguelangel admin   909 Sep 20 20:17 webresources.css
+-rwxrwxr-x 1 miguelangel admin  1127 Sep 20 20:17 whatsnew.css
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/purpleMesh/swt:
+total 36
+-rwxrwxr-x 1 miguelangel admin  807 Sep 20 20:17 firststeps.properties
+-rwxrwxr-x 1 miguelangel admin  789 Sep 20 20:17 migrate.properties
+-rwxrwxr-x 1 miguelangel admin  860 Sep 20 20:17 overview.properties
+-rwxrwxr-x 1 miguelangel admin 3670 Sep 20 20:17 root.properties
+-rwxrwxr-x 1 miguelangel admin  936 Sep 20 20:17 samples.properties
+-rwxrwxr-x 1 miguelangel admin 2224 Sep 20 20:17 standby.properties
+-rwxrwxr-x 1 miguelangel admin  913 Sep 20 20:17 tutorials.properties
+-rwxrwxr-x 1 miguelangel admin  870 Sep 20 20:17 webresources.properties
+-rwxrwxr-x 1 miguelangel admin 1007 Sep 20 20:17 whatsnew.properties
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/shared:
+total 0
+drwxr-xr-x 4 miguelangel admin 136 Jan 16 21:06 graphics
+drwxr-xr-x 3 miguelangel admin 102 Jan 16 21:06 html
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/shared/graphics:
+total 0
+drwxr-xr-x 11 miguelangel admin 374 Jan 16 21:06 contentpage
+drwxr-xr-x  3 miguelangel admin 102 Jan 16 21:06 icons
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/shared/graphics/contentpage:
+total 36
+-rwxrwxr-x 1 miguelangel admin 742 Sep 20 20:17 grey_callout.gif
+-rwxrwxr-x 1 miguelangel admin 727 Sep 20 20:17 ov_high.gif
+-rwxrwxr-x 1 miguelangel admin 310 Sep 20 20:17 ov_med.gif
+-rwxrwxr-x 1 miguelangel admin 772 Sep 20 20:17 tu-sa_high.gif
+-rwxrwxr-x 1 miguelangel admin 449 Sep 20 20:17 tu-sa_med.gif
+-rwxrwxr-x 1 miguelangel admin 745 Sep 20 20:17 wn-fs_high.gif
+-rwxrwxr-x 1 miguelangel admin 690 Sep 20 20:17 wn-fs_med.gif
+-rwxrwxr-x 1 miguelangel admin 784 Sep 20 20:17 wr-mi_high.gif
+-rwxrwxr-x 1 miguelangel admin 460 Sep 20 20:17 wr-mi_med.gif
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/shared/graphics/icons:
+total 0
+drwxr-xr-x 10 miguelangel admin 340 Jan 16 21:06 ctool
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/shared/graphics/icons/ctool:
+total 32
+-rwxrwxr-x 1 miguelangel admin 54 Sep 20 20:17 arrow.gif
+-rwxrwxr-x 1 miguelangel admin 54 Sep 20 20:17 arrow_rtl.gif
+-rwxrwxr-x 1 miguelangel admin 53 Sep 20 20:17 widget_closed.gif
+-rwxrwxr-x 1 miguelangel admin 53 Sep 20 20:17 widget_closed_hov.gif
+-rwxrwxr-x 1 miguelangel admin 53 Sep 20 20:17 widget_closed_hov_rtl.gif
+-rwxrwxr-x 1 miguelangel admin 53 Sep 20 20:17 widget_closed_rtl.gif
+-rwxrwxr-x 1 miguelangel admin 52 Sep 20 20:17 widget_open.gif
+-rwxrwxr-x 1 miguelangel admin 52 Sep 20 20:17 widget_open_hov.gif
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/shared/html:
+total 8
+-rwxrwxr-x 1 miguelangel admin 4179 Sep 20 20:17 shared.css
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/slate:
+total 12
+drwxr-xr-x  7 miguelangel admin   238 Jan 16 21:06 graphics
+drwxr-xr-x 16 miguelangel admin   544 Jan 16 21:06 html
+-rwxrwxr-x  1 miguelangel admin 11762 Sep 20 20:17 preview.png
+drwxr-xr-x 11 miguelangel admin   374 Jan 16 21:06 swt
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/slate/graphics:
+total 0
+drwxr-xr-x 10 miguelangel admin  340 Jan 16 21:06 contentpage
+drwxr-xr-x  3 miguelangel admin  102 Jan 16 21:06 icons
+drwxr-xr-x  9 miguelangel admin  306 Jan 16 21:06 launchbar
+drwxr-xr-x 37 miguelangel admin 1258 Jan 16 21:06 rootpage
+drwxr-xr-x 18 miguelangel admin  612 Jan 16 21:06 standby
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/slate/graphics/contentpage:
+total 92
+-rwxrwxr-x 1 miguelangel admin  4130 Sep 20 20:17 banner_extension.jpg
+-rwxrwxr-x 1 miguelangel admin 10539 Sep 20 20:17 fs_banner.jpg
+-rwxrwxr-x 1 miguelangel admin 10401 Sep 20 20:17 mi_banner.jpg
+-rwxrwxr-x 1 miguelangel admin 10393 Sep 20 20:17 ov_banner.jpg
+-rwxrwxr-x 1 miguelangel admin 10439 Sep 20 20:17 sa_banner.jpg
+-rwxrwxr-x 1 miguelangel admin 10397 Sep 20 20:17 tu_banner.jpg
+-rwxrwxr-x 1 miguelangel admin 10551 Sep 20 20:17 wn_banner.jpg
+-rwxrwxr-x 1 miguelangel admin 10321 Sep 20 20:17 wr_banner.jpg
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/slate/graphics/icons:
+total 0
+drwxr-xr-x 41 miguelangel admin 1394 Jan 16 21:06 ctool
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/slate/graphics/icons/ctool:
+total 232
+-rwxrwxr-x 1 miguelangel admin    54 Sep 20 20:17 arrow_rtl.gif
+-rwxrwxr-x 1 miguelangel admin  4243 Sep 20 20:17 firststeps-select.gif
+-rwxrwxr-x 1 miguelangel admin  9390 Sep 20 20:17 firststeps-select.png
+-rwxrwxr-x 1 miguelangel admin 10857 Sep 20 20:17 firststeps.png
+-rwxrwxr-x 1 miguelangel admin  2166 Sep 20 20:17 fs_nav.png
+-rwxrwxr-x 1 miguelangel admin  1614 Sep 20 20:17 fs_nav_32.gif
+-rwxrwxr-x 1 miguelangel admin  1579 Sep 20 20:17 mi_nav.png
+-rwxrwxr-x 1 miguelangel admin  1445 Sep 20 20:17 mi_nav_32.gif
+-rwxrwxr-x 1 miguelangel admin  3428 Sep 20 20:17 migrate-select.gif
+-rwxrwxr-x 1 miguelangel admin  5978 Sep 20 20:17 migrate-select.png
+-rwxrwxr-x 1 miguelangel admin  6439 Sep 20 20:17 migrate.png
+-rwxrwxr-x 1 miguelangel admin  2046 Sep 20 20:17 ov_nav.png
+-rwxrwxr-x 1 miguelangel admin  1555 Sep 20 20:17 ov_nav_32.gif
+-rwxrwxr-x 1 miguelangel admin  3395 Sep 20 20:17 overview-select.gif
+-rwxrwxr-x 1 miguelangel admin  6156 Sep 20 20:17 overview-select.png
+-rwxrwxr-x 1 miguelangel admin  7720 Sep 20 20:17 overview.png
+-rwxrwxr-x 1 miguelangel admin  2046 Sep 20 20:17 sa_nav.png
+-rwxrwxr-x 1 miguelangel admin  1556 Sep 20 20:17 sa_nav_32.gif
+-rwxrwxr-x 1 miguelangel admin  3425 Sep 20 20:17 samples-select.gif
+-rwxrwxr-x 1 miguelangel admin  6634 Sep 20 20:17 samples-select.png
+-rwxrwxr-x 1 miguelangel admin  8010 Sep 20 20:17 samples.png
+-rwxrwxr-x 1 miguelangel admin  1733 Sep 20 20:17 tu_nav.png
+-rwxrwxr-x 1 miguelangel admin  1507 Sep 20 20:17 tu_nav_32.gif
+-rwxrwxr-x 1 miguelangel admin  3416 Sep 20 20:17 tutorials-select.gif
+-rwxrwxr-x 1 miguelangel admin  5519 Sep 20 20:17 tutorials-select.png
+-rwxrwxr-x 1 miguelangel admin  6908 Sep 20 20:17 tutorials.png
+-rwxrwxr-x 1 miguelangel admin  1205 Sep 20 20:17 wb_nav.png
+-rwxrwxr-x 1 miguelangel admin  1291 Sep 20 20:17 wb_nav_32.gif
+-rwxrwxr-x 1 miguelangel admin  3880 Sep 20 20:17 webresources-select.gif
+-rwxrwxr-x 1 miguelangel admin  7407 Sep 20 20:17 webresources-select.png
+-rwxrwxr-x 1 miguelangel admin  8350 Sep 20 20:17 webresources.png
+-rwxrwxr-x 1 miguelangel admin  3595 Sep 20 20:17 whatsnew-select.gif
+-rwxrwxr-x 1 miguelangel admin  6588 Sep 20 20:17 whatsnew-select.png
+-rwxrwxr-x 1 miguelangel admin  6936 Sep 20 20:17 whatsnew.png
+-rwxrwxr-x 1 miguelangel admin  1534 Sep 20 20:17 wn_nav.png
+-rwxrwxr-x 1 miguelangel admin  1360 Sep 20 20:17 wn_nav_32.gif
+-rwxrwxr-x 1 miguelangel admin  5580 Sep 20 20:17 workbench.png
+-rwxrwxr-x 1 miguelangel admin  1805 Sep 20 20:17 wr_nav.png
+-rwxrwxr-x 1 miguelangel admin  1503 Sep 20 20:17 wr_nav_32.gif
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/slate/graphics/launchbar:
+total 28
+-rwxrwxr-x 1 miguelangel admin 814 Sep 20 20:17 firststeps16.png
+-rwxrwxr-x 1 miguelangel admin 687 Sep 20 20:17 migrate16.png
+-rwxrwxr-x 1 miguelangel admin 757 Sep 20 20:17 overview16.png
+-rwxrwxr-x 1 miguelangel admin 736 Sep 20 20:17 samples16.png
+-rwxrwxr-x 1 miguelangel admin 607 Sep 20 20:17 tutorials16.png
+-rwxrwxr-x 1 miguelangel admin 635 Sep 20 20:17 webresources16.png
+-rwxrwxr-x 1 miguelangel admin 607 Sep 20 20:17 whatsnew16.png
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/slate/graphics/rootpage:
+total 284
+-rwxrwxr-x 1 miguelangel admin 55521 Sep 20 20:17 background.jpg
+-rwxrwxr-x 1 miguelangel admin  2693 Sep 20 20:17 firststeps48.gif
+-rwxrwxr-x 1 miguelangel admin  6851 Sep 20 20:17 firststeps48.png
+-rwxrwxr-x 1 miguelangel admin  2447 Sep 20 20:17 firststeps48_hov.gif
+-rwxrwxr-x 1 miguelangel admin  7245 Sep 20 20:17 firststeps48_hov.png
+-rwxrwxr-x 1 miguelangel admin  1830 Sep 20 20:17 migrate48.gif
+-rwxrwxr-x 1 miguelangel admin  4749 Sep 20 20:17 migrate48.png
+-rwxrwxr-x 1 miguelangel admin  1592 Sep 20 20:17 migrate48_hov.gif
+-rwxrwxr-x 1 miguelangel admin  5143 Sep 20 20:17 migrate48_hov.png
+-rwxrwxr-x 1 miguelangel admin  2131 Sep 20 20:17 overview48.gif
+-rwxrwxr-x 1 miguelangel admin  5494 Sep 20 20:17 overview48.png
+-rwxrwxr-x 1 miguelangel admin  1899 Sep 20 20:17 overview48_hov.gif
+-rwxrwxr-x 1 miguelangel admin  6002 Sep 20 20:17 overview48_hov.png
+-rwxrwxr-x 1 miguelangel admin  4096 Sep 20 20:17 root_banner.jpg
+-rwxrwxr-x 1 miguelangel admin 30987 Sep 20 20:17 root_banner_logo.jpg
+-rwxrwxr-x 1 miguelangel admin  2132 Sep 20 20:17 samples48.gif
+-rwxrwxr-x 1 miguelangel admin  5573 Sep 20 20:17 samples48.png
+-rwxrwxr-x 1 miguelangel admin  1883 Sep 20 20:17 samples48_hov.gif
+-rwxrwxr-x 1 miguelangel admin  6088 Sep 20 20:17 samples48_hov.png
+-rwxrwxr-x 1 miguelangel admin  2203 Sep 20 20:17 tutorials48.gif
+-rwxrwxr-x 1 miguelangel admin  5339 Sep 20 20:17 tutorials48.png
+-rwxrwxr-x 1 miguelangel admin  2074 Sep 20 20:17 tutorials48_hov.gif
+-rwxrwxr-x 1 miguelangel admin  5446 Sep 20 20:17 tutorials48_hov.png
+-rwxrwxr-x 1 miguelangel admin  2764 Sep 20 20:17 webresources48.gif
+-rwxrwxr-x 1 miguelangel admin  6279 Sep 20 20:17 webresources48.png
+-rwxrwxr-x 1 miguelangel admin  2492 Sep 20 20:17 webresources48_hov.gif
+-rwxrwxr-x 1 miguelangel admin  6854 Sep 20 20:17 webresources48_hov.png
+-rwxrwxr-x 1 miguelangel admin  1983 Sep 20 20:17 whatsnew48.gif
+-rwxrwxr-x 1 miguelangel admin  4979 Sep 20 20:17 whatsnew48.png
+-rwxrwxr-x 1 miguelangel admin  1734 Sep 20 20:17 whatsnew48_hov.gif
+-rwxrwxr-x 1 miguelangel admin  5627 Sep 20 20:17 whatsnew48_hov.png
+-rwxrwxr-x 1 miguelangel admin  1702 Sep 20 20:17 workbench48.gif
+-rwxrwxr-x 1 miguelangel admin  4319 Sep 20 20:17 workbench48.png
+-rwxrwxr-x 1 miguelangel admin  1457 Sep 20 20:17 workbench48_hov.gif
+-rwxrwxr-x 1 miguelangel admin  4612 Sep 20 20:17 workbench48_hov.png
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/slate/graphics/standby:
+total 64
+-rwxrwxr-x 1 miguelangel admin 1809 Sep 20 20:17 fs_standby.gif
+-rwxrwxr-x 1 miguelangel admin 1975 Sep 20 20:17 fs_standbyhov.gif
+-rwxrwxr-x 1 miguelangel admin 1619 Sep 20 20:17 mi_standby.gif
+-rwxrwxr-x 1 miguelangel admin 1953 Sep 20 20:17 mi_standbyhov.gif
+-rwxrwxr-x 1 miguelangel admin 1739 Sep 20 20:17 ov_standby.gif
+-rwxrwxr-x 1 miguelangel admin 1917 Sep 20 20:17 ov_standbyhov.gif
+-rwxrwxr-x 1 miguelangel admin 1719 Sep 20 20:17 sa_standby.gif
+-rwxrwxr-x 1 miguelangel admin 1975 Sep 20 20:17 sa_standbyhov.gif
+-rwxrwxr-x 1 miguelangel admin 1677 Sep 20 20:17 tu_standby.gif
+-rwxrwxr-x 1 miguelangel admin 1883 Sep 20 20:17 tu_standbyhov.gif
+-rwxrwxr-x 1 miguelangel admin 1466 Sep 20 20:17 wb_standby.gif
+-rwxrwxr-x 1 miguelangel admin 1889 Sep 20 20:17 wb_standbyhov.gif
+-rwxrwxr-x 1 miguelangel admin 1540 Sep 20 20:17 wn_standby.gif
+-rwxrwxr-x 1 miguelangel admin 1902 Sep 20 20:17 wn_standbyhov.gif
+-rwxrwxr-x 1 miguelangel admin 1692 Sep 20 20:17 wr_standby.gif
+-rwxrwxr-x 1 miguelangel admin 1988 Sep 20 20:17 wr_standbyhov.gif
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/slate/html:
+total 76
+-rwxrwxr-x 1 miguelangel admin  1250 Sep 20 20:17 firststeps.css
+-rwxrwxr-x 1 miguelangel admin  1752 Sep 20 20:17 font-absolute.css
+-rwxrwxr-x 1 miguelangel admin  1995 Sep 20 20:17 font-relative.css
+-rwxrwxr-x 1 miguelangel admin   650 Sep 20 20:17 ltr.css
+-rwxrwxr-x 1 miguelangel admin  1229 Sep 20 20:17 migrate.css
+-rwxrwxr-x 1 miguelangel admin  1233 Sep 20 20:17 overview.css
+-rwxrwxr-x 1 miguelangel admin  8355 Sep 20 20:17 root.css
+-rwxrwxr-x 1 miguelangel admin  2661 Sep 20 20:17 rtl.css
+-rwxrwxr-x 1 miguelangel admin  1230 Sep 20 20:17 samples.css
+-rwxrwxr-x 1 miguelangel admin 10605 Sep 20 20:17 shared.css
+-rwxrwxr-x 1 miguelangel admin  4355 Sep 20 20:17 standby.css
+-rwxrwxr-x 1 miguelangel admin  1240 Sep 20 20:17 tutorials.css
+-rwxrwxr-x 1 miguelangel admin  1259 Sep 20 20:17 webresources.css
+-rwxrwxr-x 1 miguelangel admin  1236 Sep 20 20:17 whatsnew.css
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.ui.intro.universal_3.2.600.v20130326-1254/themes/slate/swt:
+total 36
+-rwxrwxr-x 1 miguelangel admin  923 Sep 20 20:17 firststeps.properties
+-rwxrwxr-x 1 miguelangel admin  896 Sep 20 20:17 migrate.properties
+-rwxrwxr-x 1 miguelangel admin  861 Sep 20 20:17 overview.properties
+-rwxrwxr-x 1 miguelangel admin 3618 Sep 20 20:17 root.properties
+-rwxrwxr-x 1 miguelangel admin  982 Sep 20 20:17 samples.properties
+-rwxrwxr-x 1 miguelangel admin 1451 Sep 20 20:17 standby.properties
+-rwxrwxr-x 1 miguelangel admin  960 Sep 20 20:17 tutorials.properties
+-rwxrwxr-x 1 miguelangel admin  942 Sep 20 20:17 webresources.properties
+-rwxrwxr-x 1 miguelangel admin 1052 Sep 20 20:17 whatsnew.properties
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.wb.core.lib_1.6.1.r43x201309092314:
+total 20
+-rw-r--r--  1 miguelangel admin 6148 Jan 16 22:18 .DS_Store
+drwxr-xr-x  6 miguelangel admin  204 Jan 16 21:06 META-INF
+-rwxrwxr-x  1 miguelangel admin 1923 Sep 20 20:17 about.html
+drwxr-xr-x 14 miguelangel admin  476 Jan 16 21:06 lib
+-rwxrwxr-x  1 miguelangel admin   68 Sep 20 20:17 plugin.properties
+-rwxrwxr-x  1 miguelangel admin   19 Sep 20 20:17 target.properties
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.wb.core.lib_1.6.1.r43x201309092314/META-INF:
+total 24
+-rwxrwxr-x 1 miguelangel admin 7816 Sep 20 20:17 ECLIPSE_.RSA
+-rwxrwxr-x 1 miguelangel admin 1394 Sep 20 20:17 ECLIPSE_.SF
+-rwxrwxr-x 1 miguelangel admin 4153 Sep 20 20:17 MANIFEST.MF
+-rwxrwxr-x 1 miguelangel admin   57 Sep 20 20:17 eclipse.inf
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.wb.core.lib_1.6.1.r43x201309092314/lib:
+total 4720
+-rwxrwxr-x 1 miguelangel admin  497055 Sep 20 20:17 MVEL-fork.jar
+-rwxrwxr-x 1 miguelangel admin  224865 Sep 20 20:17 asm-all-3.3.1.jar
+-rwxrwxr-x 1 miguelangel admin  245155 Sep 20 20:17 commons-beanutils-1.8.0.jar
+-rwxrwxr-x 1 miguelangel admin  613969 Sep 20 20:17 commons-collections-3.2.1.jar
+-rwxrwxr-x 1 miguelangel admin  161831 Sep 20 20:17 commons-digester-2.0.jar
+-rwxrwxr-x 1 miguelangel admin  172188 Sep 20 20:17 commons-io-2.0.1.jar
+-rwxrwxr-x 1 miguelangel admin  293106 Sep 20 20:17 commons-lang-2.5.jar
+-rwxrwxr-x 1 miguelangel admin   68194 Sep 20 20:17 commons-logging-1.1.1.jar
+-rwxrwxr-x 1 miguelangel admin  280528 Sep 20 20:17 commons-primitives-1.0.jar
+-rwxrwxr-x 1 miguelangel admin 1989742 Sep 20 20:17 guava-13.0.1.jar
+-rwxrwxr-x 1 miguelangel admin  120847 Sep 20 20:17 nebula-cdatetime.jar
+-rwxrwxr-x 1 miguelangel admin  145776 Sep 20 20:17 nebula-cwt.jar
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.wb.runtime.lib_1.6.1.r43x201309092314:
+total 20
+-rw-r--r-- 1 miguelangel admin 6148 Jan 16 22:18 .DS_Store
+drwxr-xr-x 6 miguelangel admin  204 Jan 16 21:06 META-INF
+-rwxrwxr-x 1 miguelangel admin 1923 Sep 20 20:17 about.html
+drwxr-xr-x 4 miguelangel admin  136 Jan 16 21:06 lib
+-rwxrwxr-x 1 miguelangel admin  217 Sep 20 20:17 plugin.properties
+-rwxrwxr-x 1 miguelangel admin   19 Sep 20 20:17 target.properties
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.wb.runtime.lib_1.6.1.r43x201309092314/META-INF:
+total 20
+-rwxrwxr-x 1 miguelangel admin 7816 Sep 20 20:17 ECLIPSE_.RSA
+-rwxrwxr-x 1 miguelangel admin  611 Sep 20 20:17 ECLIPSE_.SF
+-rwxrwxr-x 1 miguelangel admin  949 Sep 20 20:17 MANIFEST.MF
+-rwxrwxr-x 1 miguelangel admin   57 Sep 20 20:17 eclipse.inf
+
+Kony_Visualizer_Enterprise/plugins/org.eclipse.wb.runtime.lib_1.6.1.r43x201309092314/lib:
+total 504
+-rwxrwxr-x 1 miguelangel admin 340820 Sep 20 20:17 cglib-nodep-2.2.jar
+-rwxrwxr-x 1 miguelangel admin 168801 Sep 20 20:17 cglib-nodep-2.2.zip
+
+Kony_Visualizer_Enterprise/plugins/org.junit_4.11.0.v201303080030:
+total 256
+-rw-r--r-- 1 miguelangel admin   6148 Jan 16 22:18 .DS_Store
+drwxr-xr-x 6 miguelangel admin    204 Jan 16 21:06 META-INF
+-rwxrwxr-x 1 miguelangel admin   3159 Sep 20 20:17 about.html
+drwxr-xr-x 3 miguelangel admin    102 Jan 16 21:06 about_files
+-rwxrwxr-x 1 miguelangel admin 245039 Sep 20 20:17 junit.jar
+-rwxrwxr-x 1 miguelangel admin    586 Sep 20 20:17 plugin.properties
+
+Kony_Visualizer_Enterprise/plugins/org.junit_4.11.0.v201303080030/META-INF:
+total 20
+-rwxrwxr-x 1 miguelangel admin 7816 Sep 20 20:17 ECLIPSE_.RSA
+-rwxrwxr-x 1 miguelangel admin  528 Sep 20 20:17 ECLIPSE_.SF
+-rwxrwxr-x 1 miguelangel admin 2254 Sep 20 20:17 MANIFEST.MF
+-rwxrwxr-x 1 miguelangel admin  113 Sep 20 20:17 eclipse.inf
+
+Kony_Visualizer_Enterprise/plugins/org.junit_4.11.0.v201303080030/about_files:
+total 16
+-rwxrwxr-x 1 miguelangel admin 15048 Sep 20 20:17 cpl-v10.html
+
+Kony_Visualizer_Enterprise/plugins/xml:
+total 16
+-rwxrwxr-x 1 miguelangel admin 14534 Sep  3 13:04 deviceDetectionLogic.xml
